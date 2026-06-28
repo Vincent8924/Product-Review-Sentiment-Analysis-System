@@ -7,6 +7,7 @@ import plotly.express as px
 from deep_translator import GoogleTranslator
 import time
 import re
+import streamlit.components.v1 as components
 
 # --- Page Configuration ---
 st.set_page_config(page_title="Sentiment Analysis System", layout="wide")
@@ -80,6 +81,9 @@ def preprocess_and_translate(text):
 # --- 3. Model Prediction Function ---
 def predict_sentiment(text):
     # Tokenize the input text for the model
+    if not text or not isinstance(text, str) or text.strip() == "":
+        return "Neutral 🟡"
+    
     inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=128)
     
     # Disable gradient calculation for faster inference
@@ -173,7 +177,6 @@ if uploaded_file is not None:
             st.plotly_chart(fig, use_container_width=True)
         
         st.write("### 📝 Detailed Classification Results")
-        # 注意这里已经改成了 Translated_Text，与上面的数据匹配
         st.dataframe(df[[text_column, 'Translated_Text', 'Sentiment_Result']])
         
         # --- 6. Export Functionality (Excel Download) ---
@@ -192,5 +195,30 @@ if uploaded_file is not None:
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
         
-        # Note regarding PDF printing
-        st.info("🖨️ **How to save the report as a PDF?** \nGenerating a PDF directly with interactive web charts can be complex. We recommend using your browser's built-in print feature: **Press `Ctrl + P` (or `Cmd + P`), and select 'Save as PDF' as the destination printer.** This will perfectly save the report along with all charts.")
+        # --- 7. Print/Download Page Button ---
+        st.write("### 🖨️ Download Page Report")
+        st.write("Click the button below to save the entire analysis dashboard (including charts) as a PDF.")
+        
+        components.html(
+            """
+            <div style="text-align: left; padding-top: 5px;">
+                <button onclick="window.parent.print()" 
+                        style="
+                            background-color: white; 
+                            color: rgb(49, 51, 63); 
+                            border: 1px solid rgba(49, 51, 63, 0.2); 
+                            border-radius: 8px; 
+                            padding: 8px 16px; 
+                            font-size: 16px; 
+                            cursor: pointer;
+                            font-family: 'Source Sans Pro', sans-serif;
+                            transition: all 0.2s ease;
+                        "
+                        onmouseover="this.style.borderColor='#FF4B4B'; this.style.color='#FF4B4B';"
+                        onmouseout="this.style.borderColor='rgba(49, 51, 63, 0.2)'; this.style.color='rgb(49, 51, 63)';">
+                    📄 Save Page as PDF
+                </button>
+            </div>
+            """,
+            height=60
+        )
