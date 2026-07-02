@@ -1,67 +1,32 @@
 import streamlit as st
-import torch
-import torch.nn as nn
 import pandas as pd
+import torch
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import io
 import plotly.express as px
-from transformers import AutoTokenizer, RobertaModel
-import re
 from deep_translator import GoogleTranslator
 import time
-import io
+import re
 import streamlit.components.v1 as components
 
-# ==========================================
-# 1. CONFIGURATION & MAPPINGS
-# ==========================================
-st.set_page_config(page_title="Review Sentiment & Aspect Analyzer", layout="wide")
+# --- Page Configuration ---
+st.set_page_config(page_title="Sentiment Analysis System", layout="wide")
+st.title("🛍️ Product Review Sentiment Analysis System")
+st.write("Upload an Excel file containing product reviews, and our AI model will automatically classify and analyze the sentiments.")
 
-TOKENIZER_PATH = "Model_Sentiment_Aspect"
-MODEL_WEIGHTS_PATH = "Model_Sentiment_Aspect/mtl_roberta_weights.pt" 
-
-SENTIMENT_LABELS = {0: "Negative", 1: "Neutral", 2: "Positive"}
-ASPECT_LABELS = {0: "quality", 1: "General", 2: "expiry", 3: "packaging", 4: "effectiveness", 5: "taste", 6: "price"}
-
-# ==========================================
-# 2. MODEL ARCHITECTURE DEFINITION
-# ==========================================
-class CustomMTLRoberta(nn.Module):
-    def __init__(self, num_sentiments=len(SENTIMENT_LABELS), num_aspects=len(ASPECT_LABELS)):
-        super(CustomMTLRoberta, self).__init__()
-        self.roberta = RobertaModel.from_pretrained('roberta-base')
-        self.dropout = nn.Dropout(0.3)
-        
-        self.sentiment_classifier = nn.Linear(self.roberta.config.hidden_size, num_sentiments)
-        self.aspect_classifier = nn.Linear(self.roberta.config.hidden_size, num_aspects)
-
-    def forward(self, input_ids, attention_mask):
-        outputs = self.roberta(input_ids=input_ids, attention_mask=attention_mask)
-        pooled_output = outputs.pooler_output
-        pooled_output = self.dropout(pooled_output)
-        
-        sentiment_logits = self.sentiment_classifier(pooled_output)
-        aspect_logits = self.aspect_classifier(pooled_output) 
-        
-        return sentiment_logits, aspect_logits
-
-# ==========================================
-# 3. LOAD MODEL & TOKENIZER (Cached)
-# ==========================================
+# --- 1. Load Model (Using cache to prevent reloading on every interaction) ---
 @st.cache_resource
-def load_assets():
-    tokenizer = AutoTokenizer.from_pretrained(TOKENIZER_PATH)
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    model = CustomMTLRoberta()
-    model.load_state_dict(torch.load(MODEL_WEIGHTS_PATH, map_location=device))
-    model.to(device)
-    model.eval()
-    return tokenizer, model, device
+def load_model():
+    # Path to your extracted fine-tuned model directory
+    model_path = "./Model_Sentiment_ONLY" 
+    tokenizer = AutoTokenizer.from_pretrained(model_path)
+    model = AutoModelForSequenceClassification.from_pretrained(model_path)
+    return tokenizer, model
 
 with st.spinner('Loading AI Model. Please wait...'):
-    tokenizer, model, device = load_assets()
+    tokenizer, model = load_model()
 
-# ==========================================
-# 4. PREPROCESSING
-# ==========================================
+# --- 2. Text Preprocessing Function ---
 LOCAL_DICT = {
     "brg": "barang",
     "sdap": "sedap",
@@ -75,159 +40,165 @@ LOCAL_DICT = {
 }
 
 def preprocess_and_translate(text):
+    """
+    Advanced Data Pre-processing & Translation Pipeline.
+    Cleans the text and translates it to English for the model.
+    """
     if not isinstance(text, str):
         return ""
     
+    # 1. Lowercasing
     text = text.lower()
+    
+    # 2. Remove URLs and HTML tags
     text = re.sub(r'http\S+|www\.\S+', '', text)
     text = re.sub(r'<.*?>', '', text)
     
+    # 3. Slang & Abbreviation Normalization
     for slang, correct_word in LOCAL_DICT.items():
         text = re.sub(rf'\b{slang}\b', correct_word, text)
         
+    # 4. Remove excessive punctuation (e.g., "!!!!" -> "!")
     text = re.sub(r'([!?.])\1+', r'\1', text)
+    
+    # 5. Fix word lengthening (e.g., "goooooood" -> "good")
     text = re.sub(r'(.)\1{2,}', r'\1\1', text)
+    
+    # 6. Clean up whitespaces
     text = re.sub(r'\s+', ' ', text).strip()
     
+    # 7. Translate to English
     try:
         if len(text) < 2:
             return text
+        # Auto-detect source language, translate to English
         translated = GoogleTranslator(source='auto', target='en').translate(text)
         return translated
     except Exception as e:
+        # Fallback to original text if translation fails (e.g., network issue)
         return text
 
-# ==========================================
-# 5. INFERENCE FUNCTION
-# ==========================================
-def predict_sentiment_and_aspect(cleaned_text):
-    if not cleaned_text or cleaned_text.strip() == "":
-        return "Neutral", "General"
-        
-    inputs = tokenizer(cleaned_text, return_tensors="pt", truncation=True, padding=True, max_length=128).to(device)
+# --- 3. Model Prediction Function ---
+def predict_sentiment(text):
+    # Tokenize the input text for the model
+    if not text or not isinstance(text, str) or text.strip() == "":
+        return "Neutral 🟡"
     
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=128)
+    
+    # Disable gradient calculation for faster inference
     with torch.no_grad():
-        sentiment_logits, aspect_logits = model(input_ids=inputs['input_ids'], attention_mask=inputs['attention_mask'])
+        outputs = model(**inputs)
     
-    sentiment_pred = torch.argmax(sentiment_logits, dim=1).item()
-    aspect_pred = torch.argmax(aspect_logits, dim=1).item() 
+    # Get the predicted class ID with the highest score
+    logits = outputs.logits
+    predicted_class_id = logits.argmax().item()
     
-    return SENTIMENT_LABELS[sentiment_pred], ASPECT_LABELS[aspect_pred]
+    # Class mapping (Modify this based on the label order during your model training)
+    # Typically 0: Negative, 1: Neutral, 2: Positive
+    label_map = {0: "Negative 🔴", 1: "Neutral 🟡", 2: "Positive 🟢"}
+    return label_map.get(predicted_class_id, "Unknown")
 
-# ==========================================
-# 6. STREAMLIT UI - MAIN WORKFLOW
-# ==========================================
-st.title("🛍️ Product Review Sentiment & Aspect Analyzer")
-st.write("Upload a CSV or Excel file containing product reviews, select the text column, and our AI model will automatically extract Aspects and classify Sentiments.")
-
-uploaded_file = st.file_uploader("📂 Please upload your dataset (.csv or .xlsx)", type=["csv", "xlsx"])
+# --- 4. File Upload and Main Analysis Logic ---
+uploaded_file = st.file_uploader("📂 Please upload an Excel file (.xlsx)", type=["xlsx"])
 
 if uploaded_file is not None:
-    # Safely load the file based on its extension
-    if uploaded_file.name.endswith('.csv'):
-        try:
-            df = pd.read_csv(uploaded_file, encoding='utf-8')
-        except UnicodeDecodeError:
-            uploaded_file.seek(0)
-            try:
-                df = pd.read_csv(uploaded_file, encoding='latin-1')
-            except UnicodeDecodeError:
-                uploaded_file.seek(0)
-                df = pd.read_csv(uploaded_file, encoding='gbk')
-    else:
-        df = pd.read_excel(uploaded_file)
-        
-    st.write("### 🔍 Data Preview:")
+    # Read the uploaded Excel file
+    df = pd.read_excel(uploaded_file)
+    
+    st.write("### Data Preview:")
     st.dataframe(df.head())
     
-    # Let the user select which column contains the text
+    # Allow the user to select the column containing the reviews
     text_column = st.selectbox("Select the column containing the review text:", df.columns)
     
-    if st.button("🚀 Start AI Analysis", type="primary"):
+    if st.button("🚀 Start AI Analysis"):
         st.warning("⏳ Calling translation engine and AI model. Please wait...")
         
+        # Initialize Progress Bar and Status Text
         progress_bar = st.progress(0)
         status_text = st.empty()
         
         total_rows = len(df)
         cleaned_texts = []
         sentiment_results = []
-        aspect_results = []
         
-        # Iterate row by row to process and update the progress bar
+        # Iterate through the DataFrame row by row
         for i, row in df.iterrows():
             original_text = row[text_column]
+            
+            # Update status text
             status_text.text(f"Processing row {i+1} of {total_rows}...")
             
             # 1. Preprocess & Translate
             cleaned = preprocess_and_translate(original_text)
             cleaned_texts.append(cleaned)
             
-            # 2. Predict Sentiment & Aspect
-            sentiment, aspect = predict_sentiment_and_aspect(cleaned)
+            # 2. Predict Sentiment 
+            sentiment = predict_sentiment(cleaned)
             sentiment_results.append(sentiment)
-            aspect_results.append(aspect)
             
-            # Update Progress Bar
+            # Update progress bar
             progress = int(((i + 1) / total_rows) * 100)
             progress_bar.progress(progress)
             
-        # Append predictions to dataframe
+            # Add a small delay to prevent triggering API rate limits
+            time.sleep(0.1) 
+            
+        # Append the new columns to the DataFrame
         df['Translated_Text'] = cleaned_texts
-        df['Predicted_Sentiment'] = sentiment_results
-        df['Predicted_Aspect'] = aspect_results
+        df['Sentiment_Result'] = sentiment_results
         
+        # Final success message
         status_text.text("✅ All data processed successfully!")
         st.success("🎉 Analysis Completed!")
         
-        # --- 7. VISUALIZATIONS ---
-        st.divider()
-        st.subheader("📈 Analytics Dashboard")
+        # --- 5. Results Visualization ---
+        st.write("### 📊 Sentiment Analysis Statistics")
+        col1, col2 = st.columns(2)
         
-        # Stacked Bar Chart for Overall Insights
-        st.markdown("#### Overall Sentiment Distribution across all Aspects")
-        aspect_sentiment_counts = df.groupby(['Predicted_Aspect', 'Predicted_Sentiment']).size().reset_index(name='Count')
-        fig_bar = px.bar(aspect_sentiment_counts, x="Predicted_Aspect", y="Count", color="Predicted_Sentiment", 
-                         title="Sentiment Breakdown by Aspect", barmode='stack',
-                         color_discrete_map={"Positive": "green", "Neutral": "gray", "Negative": "red"})
-        st.plotly_chart(fig_bar, use_container_width=True)
+        # Calculate sentiment counts
+        sentiment_counts = df['Sentiment_Result'].value_counts().reset_index()
+        sentiment_counts.columns = ['Sentiment', 'Count']
         
-        st.divider()
-        
-        # Dynamic Pie Chart by selected Aspect
-        st.markdown("#### Filter Sentiment by Specific Aspect")
-        available_aspects = df['Predicted_Aspect'].unique()
-        selected_aspect = st.selectbox("Select an Aspect to view its Sentiment distribution:", available_aspects)
-        
-        if selected_aspect:
-            filtered_df = df[df['Predicted_Aspect'] == selected_aspect]
-            sentiment_counts = filtered_df['Predicted_Sentiment'].value_counts().reset_index()
-            sentiment_counts.columns = ['Sentiment', 'Count']
+        with col1:
+            st.dataframe(sentiment_counts)
             
-            fig_pie = px.pie(sentiment_counts, values='Count', names='Sentiment', 
-                             title=f"Sentiment Distribution for: {selected_aspect}",
-                             color='Sentiment',
-                             color_discrete_map={"Positive": "green", "Neutral": "gray", "Negative": "red"})
-            fig_pie.update_traces(textposition='inside', textinfo='percent+label')
-            st.plotly_chart(fig_pie, use_container_width=True)
+        with col2:
+            # Generate a pie chart using Plotly
+            fig = px.pie(sentiment_counts, values='Count', names='Sentiment', 
+                         title='Sentiment Distribution', 
+                         color='Sentiment',
+                         color_discrete_map={
+                             "Positive 🟢": "green", 
+                             "Neutral 🟡": "gold", 
+                             "Negative 🔴": "red"
+                         })
+            st.plotly_chart(fig, use_container_width=True)
         
-        # --- 8. RESULTS PREVIEW & EXPORT ---
         st.write("### 📝 Detailed Classification Results")
-        st.dataframe(df[[text_column, 'Translated_Text', 'Predicted_Aspect', 'Predicted_Sentiment']])
+        st.dataframe(df[[text_column, 'Translated_Text', 'Sentiment_Result']])
         
+        # --- 6. Export Functionality (Excel Download) ---
         st.write("### 📥 Download Analysis Report")
         
-        # Download as CSV
+        # Convert DataFrame to an Excel binary stream
+        output = io.BytesIO()
+        with pd.ExcelWriter(output, engine='openpyxl') as writer:
+            df.to_excel(writer, index=False, sheet_name='Analysis_Result')
+        excel_data = output.getvalue()
+        
         st.download_button(
             label="📁 Download Complete Analysis Results (Excel)",
             data=excel_data,
-            file_name="Sentiment_Aspect_Analysis_Result.xlsx",
+            file_name="Sentiment_Analysis_Result.xlsx",
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
         
-        # Print/Save as PDF Button
+        # --- 7. Print/Download Page Button ---
         st.write("### 🖨️ Download Page Report")
         st.write("Click the button below to save the entire analysis dashboard (including charts) as a PDF.")
+        
         components.html(
             """
             <div style="text-align: left; padding-top: 5px;">
