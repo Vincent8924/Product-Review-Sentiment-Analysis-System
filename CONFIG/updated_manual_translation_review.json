@@ -1,0 +1,1091 @@
+[
+  {
+    "sentence_id": 2,
+    "original_sentence": "Fast energy, eat full for a long time",
+    "google_translation": "Fast energy, eat full for a long time",
+    "manual_translation": "Provides quick energy and keeps you full for a long time.",
+    "final_translation": "Provides quick energy and keeps you full for a long time.",
+    "status": "completed",
+    "review_reason": "Suspicious: eat full"
+  },
+  {
+    "sentence_id": 3,
+    "original_sentence": "Shop delivered quickly, carefully packed, evaluation is for receiving coins",
+    "google_translation": "Shop delivered quickly, carefully packed, evaluation is for receiving coins",
+    "manual_translation": "The seller shipped quickly and packed the item carefully. Leaving this review to collect coins.",
+    "final_translation": "The seller shipped quickly and packed the item carefully. Leaving this review to collect coins.",
+    "status": "completed",
+    "review_reason": "Suspicious: receiving coins"
+  },
+  {
+    "sentence_id": 10,
+    "original_sentence": "Powerful in space space",
+    "google_translation": "Powerful in space space",
+    "manual_translation": "Very powerful.",
+    "final_translation": "Very powerful.",
+    "status": "completed",
+    "review_reason": "Suspicious: space space"
+  },
+  {
+    "sentence_id": 77,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 80,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 240,
+    "original_sentence": "Effectiveness: berkesan",
+    "google_translation": "Effectiveness: berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 479,
+    "original_sentence": "Rekomen lah",
+    "google_translation": "recommended lah",
+    "manual_translation": "Highly recommended.",
+    "final_translation": "Highly recommended.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: lah"
+  },
+  {
+    "sentence_id": 499,
+    "original_sentence": "Effectiveness: Mcm ok nti kena try bawa run mgu ni",
+    "google_translation": "Effectiveness: Mcm ok nti kena try bawa run mgu ni",
+    "manual_translation": "Effectiveness: Seems okay. I'll test it during my run next week.",
+    "final_translation": "Effectiveness: Seems okay. I'll test it during my run next week.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mcm, ni"
+  },
+  {
+    "sentence_id": 528,
+    "original_sentence": "I like hammer gel ni sbb sedap and if I consume this, I boleh kurangkan effect DOMS on the next day",
+    "google_translation": "I like hammer gel ni sebab sedap and if I consume this, I boleh kurangkan effect DOMS on the next day",
+    "manual_translation": "I like this Hammer Gel because it tastes good, and it helps reduce DOMS the next day.",
+    "final_translation": "I like this Hammer Gel because it tastes good, and it helps reduce DOMS the next day.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: ni, sedap"
+  },
+  {
+    "sentence_id": 569,
+    "original_sentence": "Effectiveness: berkesan",
+    "google_translation": "Effectiveness: berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 626,
+    "original_sentence": "Expiry Date pun ok",
+    "google_translation": "Expiry Date pun ok",
+    "manual_translation": "The expiry date is fine.",
+    "final_translation": "The expiry date is fine.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 633,
+    "original_sentence": "Effectiveness: tak try lagi",
+    "google_translation": "Effectiveness: tak try lagi",
+    "manual_translation": "Effectiveness: I won't try again.",
+    "final_translation": "Effectiveness: I won't try again.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: tak"
+  },
+  {
+    "sentence_id": 665,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 674,
+    "original_sentence": "Sedap brand hummer ni",
+    "google_translation": "Sedap brand lobster nine",
+    "manual_translation": "This Hammer brand tastes great.",
+    "final_translation": "This Hammer brand tastes great.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 790,
+    "original_sentence": "Effectiveness: berkesan",
+    "google_translation": "Effectiveness: berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 927,
+    "original_sentence": "Xpernah test gel energy brand ni",
+    "google_translation": "Xpernah test gel energy brand ni",
+    "manual_translation": "I've never tried this brand of energy gel before.",
+    "final_translation": "I've never tried this brand of energy gel before.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: ni"
+  },
+  {
+    "sentence_id": 1100,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 1298,
+    "original_sentence": "Barang dah sampai, nak gune untuk HM hujung bulan nie",
+    "google_translation": "Barang dah sampai, nak gune untuk HM hujung bulan nie",
+    "manual_translation": "The item has arrived. I'll use it for my half marathon at the end of the month.",
+    "final_translation": "The item has arrived. I'll use it for my half marathon at the end of the month.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: barang"
+  },
+  {
+    "sentence_id": 1532,
+    "original_sentence": "Effectiveness: Blum cuba br nk try nnt",
+    "google_translation": "Effectiveness: Blum cuba br nk try nnt",
+    "manual_translation": "Effectiveness: Haven't tried it yet. Will try it later.",
+    "final_translation": "Effectiveness: Haven't tried it yet. Will try it later.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 1758,
+    "original_sentence": "Effectiveness: mantap",
+    "google_translation": "Effectiveness: mantap",
+    "manual_translation": "Effectiveness: Excellent",
+    "final_translation": "Effectiveness: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 1759,
+    "original_sentence": "Quality: padu",
+    "google_translation": "Quality: padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 2217,
+    "original_sentence": "Power gel nimbus telah selamat sampai ke pulau banggi padu seller atur pos dgn cepat dan tangkas idol🫡",
+    "google_translation": "Nimbus power gel has safely arrived at Banggi Padu Island. Seller arranged post quickly and quickly idol🫡",
+    "manual_translation": "The Nimbus Power Gel arrived safely at Banggi Island. Excellent seller—shipping was fast and efficient. 🫡",
+    "final_translation": "The Nimbus Power Gel arrived safely at Banggi Island. Excellent seller—shipping was fast and efficient. 🫡",
+    "status": "completed",
+    "review_reason": "Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 2234,
+    "original_sentence": "Effectiveness: so far ok berkesan",
+    "google_translation": "Effectiveness: so far ok berkesan",
+    "manual_translation": "Effectiveness: So far, it's effective.",
+    "final_translation": "Effectiveness: So far, it's effective.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 2266,
+    "original_sentence": "fast delivery good packed by seller terbaik will repeat order next time",
+    "google_translation": "fast delivery good packed by seller terbaik will repeat order next time",
+    "manual_translation": "Fast delivery, well packed by the seller. Excellent service. Will order again next time.",
+    "final_translation": "Fast delivery, well packed by the seller. Excellent service. Will order again next time.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: terbaik"
+  },
+  {
+    "sentence_id": 2269,
+    "original_sentence": "Bru nk cba",
+    "google_translation": "Bru nk cba",
+    "manual_translation": "Just about to try it.",
+    "final_translation": "Just about to try it.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 2280,
+    "original_sentence": "1st time nk try brand hummer",
+    "google_translation": "1st time nk try brand hummer",
+    "manual_translation": "First time trying the Hammer brand.",
+    "final_translation": "First time trying the Hammer brand.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 2285,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2359,
+    "original_sentence": "Effectiveness: berkesan",
+    "google_translation": "Effectiveness: berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 2380,
+    "original_sentence": "Effectiveness: sedap",
+    "google_translation": "Effectiveness: sedap",
+    "manual_translation": "Effectiveness: Good",
+    "final_translation": "Effectiveness: Good",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2494,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2548,
+    "original_sentence": "1st time beli nk try",
+    "google_translation": "1st time beli nk try",
+    "manual_translation": "First time buying, going to try it.",
+    "final_translation": "First time buying, going to try it.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 2650,
+    "original_sentence": "Packaging pun ada bubble wrap",
+    "google_translation": "Packaging pun ada bubble wrap",
+    "manual_translation": "The packaging also included bubble wrap.",
+    "final_translation": "The packaging also included bubble wrap.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 2670,
+    "original_sentence": "Memang sangat recommanded la seller ni",
+    "google_translation": "Highly recommended la seller ni",
+    "manual_translation": "The seller is highly recommended.",
+    "final_translation": "The seller is highly recommended.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: ni"
+  },
+  {
+    "sentence_id": 2701,
+    "original_sentence": "Effectiveness: sedap",
+    "google_translation": "Effectiveness: sedap",
+    "manual_translation": "Effectiveness: Delicious",
+    "final_translation": "Effectiveness: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2702,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Quality: Delicious",
+    "final_translation": "Quality: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2769,
+    "original_sentence": "last long x sure lagi",
+    "google_translation": "last long tak sure lagi",
+    "manual_translation": "Not sure how long it lasts yet.",
+    "final_translation": "Not sure how long it lasts yet.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: tak"
+  },
+  {
+    "sentence_id": 2819,
+    "original_sentence": "Taste: Sedap",
+    "google_translation": "Taste: Sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2863,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2875,
+    "original_sentence": "Effectiveness: berkesan",
+    "google_translation": "Effectiveness: berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 2902,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Quality: Delicious",
+    "final_translation": "Quality: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2916,
+    "original_sentence": "Taste: sedapp",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 2947,
+    "original_sentence": "Effectiveness: not sure tak t try lagi",
+    "google_translation": "Effectiveness: not sure tak t try lagi",
+    "manual_translation": "Effectiveness: Not sure, haven't tried it yet.",
+    "final_translation": "Effectiveness: Not sure, haven't tried it yet.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: tak"
+  },
+  {
+    "sentence_id": 2991,
+    "original_sentence": "Effectiveness: sedap",
+    "google_translation": "Effectiveness: sedap",
+    "manual_translation": "Effectiveness: Delicious",
+    "final_translation": "Effectiveness: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3003,
+    "original_sentence": "Gel tu pun kecik senang masuk poket",
+    "google_translation": "Gel tu pun kecik senang masuk poket",
+    "manual_translation": "The gel is small and easy to fit in my pocket.",
+    "final_translation": "The gel is small and easy to fit in my pocket.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 3213,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 3320,
+    "original_sentence": "Effectiveness: Padu",
+    "google_translation": "Effectiveness: Padu",
+    "manual_translation": "Effectiveness: Excellent",
+    "final_translation": "Effectiveness: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 3321,
+    "original_sentence": "Quality: Padu",
+    "google_translation": "Quality: Padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 3410,
+    "original_sentence": "Quality: padu",
+    "google_translation": "Quality: padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 3432,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3458,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Quality: Delicious",
+    "final_translation": "Quality: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3522,
+    "original_sentence": "Effectiveness: Sedap",
+    "google_translation": "Effectiveness: Sedap",
+    "manual_translation": "Effectiveness: Delicious",
+    "final_translation": "Effectiveness: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3533,
+    "original_sentence": "looks soo sedap",
+    "google_translation": "looks soo sedap",
+    "manual_translation": "Looks so delicious.",
+    "final_translation": "Looks so delicious.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3651,
+    "original_sentence": "Taste: Sedap",
+    "google_translation": "Taste: Sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3678,
+    "original_sentence": "Barang sampaaaiiii",
+    "google_translation": "Barang sampaaaiiii",
+    "manual_translation": "The item has arrived!",
+    "final_translation": "The item has arrived!",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: barang"
+  },
+  {
+    "sentence_id": 3785,
+    "original_sentence": "Dua ni flavour fav",
+    "google_translation": "Dua ni flavour favorite",
+    "manual_translation": "These two are my favorite flavors.",
+    "final_translation": "These two are my favorite flavors.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: ni"
+  },
+  {
+    "sentence_id": 3867,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3886,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3965,
+    "original_sentence": "Taste: sedap",
+    "google_translation": "Taste: sedap",
+    "manual_translation": "Taste: Delicious",
+    "final_translation": "Taste: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 3979,
+    "original_sentence": "Ni first time beli ni",
+    "google_translation": "Ni first time beli ni",
+    "manual_translation": "This is my first time buying it.",
+    "final_translation": "This is my first time buying it.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: ni"
+  },
+  {
+    "sentence_id": 4031,
+    "original_sentence": "Ape ape pun thank you so much 👍👍👍👌",
+    "google_translation": "Ape ape pun thank you so much 👍👍👍👌",
+    "manual_translation": "Anyway, thank you so much! 👍👍👍👌",
+    "final_translation": "Anyway, thank you so much! 👍👍👍👌",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 4050,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 4106,
+    "original_sentence": "Effectiveness: berkesan",
+    "google_translation": "Effectiveness: berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 4118,
+    "original_sentence": "Quality: padu",
+    "google_translation": "Quality: padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 4287,
+    "original_sentence": "They’re quite sedap, she says",
+    "google_translation": "They are quite sedap, she says",
+    "manual_translation": "She says they're quite delicious.",
+    "final_translation": "She says they're quite delicious.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 4345,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Quality: Good",
+    "final_translation": "Quality: Good",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 4384,
+    "original_sentence": "Effectiveness: mantapp",
+    "google_translation": "Effectiveness: mantap",
+    "manual_translation": "Effectiveness: Excellent",
+    "final_translation": "Effectiveness: Excellent",
+    "status": "completed",
+    "review_reason": "Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 4584,
+    "original_sentence": "Quality: padu",
+    "google_translation": "Quality: padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 4600,
+    "original_sentence": "Been hearing ppl talk about how good this is, cnt wait tk try it on my hike",
+    "google_translation": "Been hearing people talk about how good this is, cnt wait tak try it on my hike",
+    "manual_translation": "I've heard many people say it's good. I can't wait to try it on my hike.",
+    "final_translation": "I've heard many people say it's good. I can't wait to try it on my hike.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: tak"
+  },
+  {
+    "sentence_id": 4631,
+    "original_sentence": "Quality: Sedap",
+    "google_translation": "Quality: Sedap",
+    "manual_translation": "Quality: Delicious",
+    "final_translation": "Quality: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 4637,
+    "original_sentence": "Packaging pun ok👍🏻",
+    "google_translation": "Packaging pun ok👍🏻",
+    "manual_translation": "The packaging is also good. 👍🏻",
+    "final_translation": "The packaging is also good. 👍🏻",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 4670,
+    "original_sentence": "Thanks you seller, first time trail endurance N8 ni masa trail run",
+    "google_translation": "Thanks you seller, first time trail endurance N8 ni masa trail run",
+    "manual_translation": "Thank you, seller. This is my first time using N8 Endurance on a trail run.",
+    "final_translation": "Thank you, seller. This is my first time using N8 Endurance on a trail run.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: ni"
+  },
+  {
+    "sentence_id": 4738,
+    "original_sentence": "Quality: padu",
+    "google_translation": "Quality: padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 4816,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 4819,
+    "original_sentence": "Expiry date pun lama",
+    "google_translation": "Expiry date pun lama",
+    "manual_translation": "The expiry date is also long.",
+    "final_translation": "The expiry date is also long.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 4824,
+    "original_sentence": "Effectiveness: confirm padu",
+    "google_translation": "Effectiveness: confirm padu",
+    "manual_translation": "Effectiveness: Definitely excellent.",
+    "final_translation": "Effectiveness: Definitely excellent.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 4846,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 4847,
+    "original_sentence": "Effectiveness: mantap",
+    "google_translation": "Effectiveness: mantap",
+    "manual_translation": "Effectiveness: Excellent",
+    "final_translation": "Effectiveness: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 4853,
+    "original_sentence": "first time nk rasa",
+    "google_translation": "first time nk rasa",
+    "manual_translation": "First time trying the taste.",
+    "final_translation": "First time trying the taste.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 5034,
+    "original_sentence": "Ok seller ni cuma haritu beli barang lain rosak xnak ganti , tu je laa",
+    "google_translation": "Ok seller ni cuma haritu beli barang lain rosak xnak ganti , tu saja laa",
+    "manual_translation": "The seller is okay, but previously I bought another item that was damaged and they refused to replace it. That's all.",
+    "final_translation": "The seller is okay, but previously I bought another item that was damaged and they refused to replace it. That's all.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: barang, ni"
+  },
+  {
+    "sentence_id": 5170,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Quality: Delicious",
+    "final_translation": "Quality: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 5185,
+    "original_sentence": "shipping pun ok",
+    "google_translation": "shipping pun ok",
+    "manual_translation": "The shipping is also good.",
+    "final_translation": "The shipping is also good.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 5199,
+    "original_sentence": "Effectiveness: not try yet a b c d e f g h o j k l m n o p q r s t u v w x y z 1 w4 ert y ok more than 50 word",
+    "google_translation": "Effectiveness: not try yet a b c d e f g h o j k l m n o p q are s t you very w tak y z 1 w4 ert y ok more than 50 word",
+    "manual_translation": "Effectiveness: Haven't tried it yet.",
+    "final_translation": "Effectiveness: Haven't tried it yet.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: tak"
+  },
+  {
+    "sentence_id": 5321,
+    "original_sentence": "nk collect coin dlu",
+    "google_translation": "nk collect coin dlu",
+    "manual_translation": "Just collecting coins first.",
+    "final_translation": "Just collecting coins first.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 5448,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 5449,
+    "original_sentence": "Hydration: terlalu padu",
+    "google_translation": "Hydration: too solid",
+    "manual_translation": "Hydration: Excellent",
+    "final_translation": "Hydration: Excellent",
+    "status": "completed",
+    "review_reason": "Suspicious: too solid"
+  },
+  {
+    "sentence_id": 5452,
+    "original_sentence": "tapa kita test tgok mcm mna di punya pergi",
+    "google_translation": "Why don't we test it and see where it goes",
+    "manual_translation": "Let's try it and see how it performs.",
+    "final_translation": "Let's try it and see how it performs.",
+    "status": "completed",
+    "review_reason": "Suspicious: where it goes"
+  },
+  {
+    "sentence_id": 5467,
+    "original_sentence": "Effectiveness: Padu",
+    "google_translation": "Effectiveness: Padu",
+    "manual_translation": "Effectiveness: Excellent",
+    "final_translation": "Effectiveness: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 5569,
+    "original_sentence": "Quality: mantap…",
+    "google_translation": "Quality: mantap…",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 5718,
+    "original_sentence": "Quality: Mantap",
+    "google_translation": "Quality: Mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 5783,
+    "original_sentence": "Quality: Padu",
+    "google_translation": "Quality: Padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 5824,
+    "original_sentence": "Effectiveness: Berkesan",
+    "google_translation": "Effectiveness: Berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 5830,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Quality: Delicious",
+    "final_translation": "Quality: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 5901,
+    "original_sentence": "harap electrolyte ni padu",
+    "google_translation": "harap electrolyte ni padu",
+    "manual_translation": "I hope this electrolyte is excellent.",
+    "final_translation": "I hope this electrolyte is excellent.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: ni, padu"
+  },
+  {
+    "sentence_id": 5935,
+    "original_sentence": "Xlh nk comment lebh2",
+    "google_translation": "Xlh nk comment lebh2",
+    "manual_translation": "I can't comment much yet.",
+    "final_translation": "I can't comment much yet.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 6098,
+    "original_sentence": "Quality: sedap",
+    "google_translation": "Quality: sedap",
+    "manual_translation": "Quality: Delicious",
+    "final_translation": "Quality: Delicious",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 6117,
+    "original_sentence": "Effectiveness: berkesan",
+    "google_translation": "Effectiveness: berkesan",
+    "manual_translation": "Effectiveness: Effective",
+    "final_translation": "Effectiveness: Effective",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: berkesan"
+  },
+  {
+    "sentence_id": 6223,
+    "original_sentence": "first time beli ni",
+    "google_translation": "first time beli ni",
+    "manual_translation": "First time buying this.",
+    "final_translation": "First time buying this.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: ni"
+  },
+  {
+    "sentence_id": 6319,
+    "original_sentence": "Effectiveness: mantap",
+    "google_translation": "Effectiveness: mantap",
+    "manual_translation": "Effectiveness: Excellent",
+    "final_translation": "Effectiveness: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 6512,
+    "original_sentence": "Effectiveness: padu",
+    "google_translation": "Effectiveness: padu",
+    "manual_translation": "Effectiveness: Excellent",
+    "final_translation": "Effectiveness: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 6516,
+    "original_sentence": "Lupa nk record time dia pepecahan tu",
+    "google_translation": "Lupa nk record time dia pepecahan tu",
+    "manual_translation": "I forgot to record my split times.",
+    "final_translation": "I forgot to record my split times.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 6543,
+    "original_sentence": "Quality: sedap flavor ni",
+    "google_translation": "Quality: sedap flavor ni",
+    "manual_translation": "Quality: This flavor is delicious.",
+    "final_translation": "Quality: This flavor is delicious.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: ni, sedap"
+  },
+  {
+    "sentence_id": 6647,
+    "original_sentence": "Effectiveness: mantap🤙🏻",
+    "google_translation": "Effectiveness: mantap🤙🏻",
+    "manual_translation": "Effectiveness: Excellent 🤙🏻",
+    "final_translation": "Effectiveness: Excellent 🤙🏻",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 6648,
+    "original_sentence": "Quality: mantap🤙🏻",
+    "google_translation": "Quality: mantap🤙🏻",
+    "manual_translation": "Quality: Excellent 🤙🏻",
+    "final_translation": "Quality: Excellent 🤙🏻",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 6691,
+    "original_sentence": "Effectiveness: mantappp bole repeat",
+    "google_translation": "Effectiveness: mantap bole repeat",
+    "manual_translation": "Effectiveness: Excellent. Will buy again.",
+    "final_translation": "Effectiveness: Excellent. Will buy again.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 6871,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 6933,
+    "original_sentence": "1st time nk try",
+    "google_translation": "1st time nk try",
+    "manual_translation": "First time trying it.",
+    "final_translation": "First time trying it.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 6934,
+    "original_sentence": "Hope sedap n ok",
+    "google_translation": "Hope sedap n ok",
+    "manual_translation": "Hope it tastes good and works well.",
+    "final_translation": "Hope it tastes good and works well.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 7033,
+    "original_sentence": "出貨快",
+    "google_translation": "出貨快",
+    "manual_translation": "Fast shipping.",
+    "final_translation": "Fast shipping.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Chinese"
+  },
+  {
+    "sentence_id": 7037,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 7055,
+    "original_sentence": "Quality: Padu",
+    "google_translation": "Quality: Padu",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 7265,
+    "original_sentence": "Ni la rahsia aku selalu podium",
+    "google_translation": "My secret is always the podium",
+    "manual_translation": "This is my secret to getting on the podium.",
+    "final_translation": "This is my secret to getting on the podium.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: podium | Suspicious: always the podium"
+  },
+  {
+    "sentence_id": 7267,
+    "original_sentence": "korg nk podium try brand SIS",
+    "google_translation": "korg nk podium try brand SIS",
+    "manual_translation": "If you want to get on the podium, try the SIS brand.",
+    "final_translation": "If you want to get on the podium, try the SIS brand.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk, podium"
+  },
+  {
+    "sentence_id": 7285,
+    "original_sentence": "Nie 1st time nk cuba",
+    "google_translation": "Not 1st time nk cuba",
+    "manual_translation": "First time trying it.",
+    "final_translation": "First time trying it.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 7333,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 7384,
+    "original_sentence": "im feeling good as well, perut pun okay takde upset stomach or whatever",
+    "google_translation": "i am feeling good as well, perut pun okay tiada upset stomach or whatever",
+    "manual_translation": "I'm feeling good as well. My stomach is fine, with no upset stomach or anything.",
+    "final_translation": "I'm feeling good as well. My stomach is fine, with no upset stomach or anything.",
+    "status": "completed",
+    "review_reason": "Remaining Malay: pun"
+  },
+  {
+    "sentence_id": 7405,
+    "original_sentence": "Hope podium",
+    "google_translation": "Hope podium",
+    "manual_translation": "Hope to make it to the podium.",
+    "final_translation": "Hope to make it to the podium.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: podium"
+  },
+  {
+    "sentence_id": 7464,
+    "original_sentence": "BELI BEST PADU MANTAP WORTH IT TAKYAH FIKR BANYAK BELI JE LA aduh",
+    "google_translation": "BUY BEST PADU STATE WORTH IT TAKYAH FIKR LOTS JUST BUY LA OH MY GOD",
+    "manual_translation": "Buy it! It's excellent, worth it, and you won't regret it. Just buy it!",
+    "final_translation": "Buy it! It's excellent, worth it, and you won't regret it. Just buy it!",
+    "status": "completed",
+    "review_reason": "Remaining Malay: padu"
+  },
+  {
+    "sentence_id": 7499,
+    "original_sentence": "Texture: the texture was very lightand easy to swallow plus taste was sedap…",
+    "google_translation": "Texture: the texture was very lightand easy to swallow plus taste was sedap…",
+    "manual_translation": "Texture: The texture is very light, easy to swallow, and tastes delicious.",
+    "final_translation": "Texture: The texture is very light, easy to swallow, and tastes delicious.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: sedap"
+  },
+  {
+    "sentence_id": 7626,
+    "original_sentence": "Effectiveness: baru nk try",
+    "google_translation": "Effectiveness: baru nk try",
+    "manual_translation": "Effectiveness: Just about to try it.",
+    "final_translation": "Effectiveness: Just about to try it.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: nk"
+  },
+  {
+    "sentence_id": 7807,
+    "original_sentence": "Quality: mantap",
+    "google_translation": "Quality: mantap",
+    "manual_translation": "Quality: Excellent",
+    "final_translation": "Quality: Excellent",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: mantap"
+  },
+  {
+    "sentence_id": 7823,
+    "original_sentence": "Taste: kita tngok energy gel ni",
+    "google_translation": "Taste: Kita tngok energy gel ni",
+    "manual_translation": "Taste: Let's see how this energy gel tastes.",
+    "final_translation": "Taste: Let's see how this energy gel tastes.",
+    "status": "completed",
+    "review_reason": "Not Translated | Remaining Malay: ni"
+  }
+]

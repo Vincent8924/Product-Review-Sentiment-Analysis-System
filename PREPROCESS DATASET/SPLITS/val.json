@@ -1,0 +1,6357 @@
+[
+  {
+    "sentence_id":4165,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Energy Gel",
+    "brand":"",
+    "product_name":"",
+    "rating":2,
+    "review_date":"2024-09-21",
+    "original_sentence":"tak berapa ok",
+    "translated_sentence":"not much okay",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"not much okay",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"tak berapa ok",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"not much okay",
+    "token_before":3,
+    "token_after":3,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"not much okay",
+    "google_translation":null,
+    "text_score":-0.6462966204,
+    "final_score":-0.5170372963
+  },
+  {
+    "sentence_id":6093,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-03-26",
+    "original_sentence":"x sampai rm30, kalau menjadi pasti akan repeat",
+    "translated_sentence":"not even rm30, if it happens it will definitely repeat",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "price"
+    ],
+    "clean_sentence":"not even rm30, if it happens it will definitely repeat",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"tak sampai rm30, kalau menjadi pasti akan repeat",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"not even rm, happens definitely repeat",
+    "token_before":10,
+    "token_after":6,
+    "removed_tokens":4,
+    "primary_aspect":"price",
+    "aspect_count":1,
+    "aspect_source":{
+      "price":"keyword"
+    },
+    "aspect_match_keyword":{
+      "price":[
+        "rm"
+      ]
+    },
+    "lemma_sentence":"not even rm, happen definitely repeat",
+    "google_translation":null,
+    "text_score":-0.6798365116,
+    "final_score":-0.5438692093
+  },
+  {
+    "sentence_id":1764,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-06-28",
+    "original_sentence":"item as described & long way to go before expiry",
+    "translated_sentence":"item as described & long way to go before expiry",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "expiry"
+    ],
+    "clean_sentence":"item as described & long way to go before expiry",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"item as described & long way to go before expiry",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"item described & long way go expiry",
+    "token_before":10,
+    "token_after":7,
+    "removed_tokens":3,
+    "primary_aspect":"expiry",
+    "aspect_count":1,
+    "aspect_source":{
+      "expiry":"keyword"
+    },
+    "aspect_match_keyword":{
+      "expiry":[
+        "expiry"
+      ]
+    },
+    "lemma_sentence":"item describe & long way go expiry",
+    "google_translation":null,
+    "text_score":-0.5282394886,
+    "final_score":-0.4225915909
+  },
+  {
+    "sentence_id":4153,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Energy Gel",
+    "brand":"",
+    "product_name":"",
+    "rating":1,
+    "review_date":"2025-06-11",
+    "original_sentence":"Do not recommend purchase this",
+    "translated_sentence":"do not recommended purchase this",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"do not recommended purchase this",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Do not recommended purchase this",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"not recommended purchase",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"not recommended purchase",
+    "google_translation":null,
+    "text_score":-0.8840739131,
+    "final_score":-0.7072591305
+  },
+  {
+    "sentence_id":5299,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":4,
+    "review_date":"2025-02-05",
+    "original_sentence":"Effectiveness: not try yet a b c d e f g h o j k l m n o p q r s t u v w x y z 1 w4 ert y ok more than 50 word",
+    "translated_sentence":"effectiveness: not try yet a b c d e f g h o j k l m n o p q are s t you very w tak y z 1 w4 ert y ok more than 50 word",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: not try yet a b c d e f g h o j k l m n o p q are s t you very w tak y z 1 w4 ert y ok more than 50 word",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Effectiveness: not try yet a b c d e f g h o j k l m n o p q are s t you very w tak y z 1 w4 ert y ok more than 50 word",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: not try yet very tak ert ok more word",
+    "token_before":39,
+    "token_after":10,
+    "removed_tokens":29,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: not try yet very tak ert ok more word",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":4129,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Electrolyte",
+    "brand":"",
+    "product_name":"",
+    "rating":1,
+    "review_date":"2022-10-19",
+    "original_sentence":"Barang pecah",
+    "translated_sentence":"broken items",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"broken items",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Barang pecah",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"broken items",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "broken"
+      ]
+    },
+    "lemma_sentence":"broken items",
+    "google_translation":null,
+    "text_score":-0.7335087061,
+    "final_score":-0.5868069649
+  },
+  {
+    "sentence_id":6642,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-02-15",
+    "original_sentence":"Effectiveness: ngam amik lepas exersice",
+    "translated_sentence":"effectiveness: ngam take off exersice",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: ngam take off exersice",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Effectiveness: ngam ambil lepas exersice",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: ngam take exersice",
+    "token_before":5,
+    "token_after":4,
+    "removed_tokens":1,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: ngam take exersice",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":7560,
+    "source_file":"SiS_GO_Isotonic_Gel.json",
+    "product_id":"SiS_GO_Isotonic_Gel",
+    "category":"Energy Gel",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-12-03",
+    "original_sentence":"nak pakai untuk HM je",
+    "translated_sentence":"i want to use it for hm only",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i want to use it for hm only",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"nak pakai untuk HM saja",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"want use hm",
+    "token_before":8,
+    "token_after":3,
+    "removed_tokens":5,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"want use hm",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":2396,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-09-28",
+    "original_sentence":"This flavour brought back childhood memories",
+    "translated_sentence":"this flavour brought back childhood memories",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "taste"
+    ],
+    "clean_sentence":"this flavour brought back childhood memories",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"This flavour brought back childhood memories",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"flavour brought back childhood memories",
+    "token_before":6,
+    "token_after":5,
+    "removed_tokens":1,
+    "primary_aspect":"taste",
+    "aspect_count":1,
+    "aspect_source":{
+      "taste":"keyword"
+    },
+    "aspect_match_keyword":{
+      "taste":[
+        "flavour"
+      ]
+    },
+    "lemma_sentence":"flavour bring back childhood memory",
+    "google_translation":null,
+    "text_score":0.6824638844,
+    "final_score":0.5459711075
+  },
+  {
+    "sentence_id":1050,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-02-07",
+    "original_sentence":"siap bagi free gift energy bar lagi",
+    "translated_sentence":"ready to give another free energy bar gift",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"ready to give another free energy bar gift",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"siap bagi free gift energy bar lagi",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"ready give another free energy bar gift",
+    "token_before":8,
+    "token_after":7,
+    "removed_tokens":1,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "energy"
+      ]
+    },
+    "lemma_sentence":"ready give another free energy bar gift",
+    "google_translation":null,
+    "text_score":0.6063104272,
+    "final_score":0.4850483418
+  },
+  {
+    "sentence_id":2038,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":3,
+    "review_date":"2025-01-16",
+    "original_sentence":"The vanilla doesnt taste like it",
+    "translated_sentence":"the vanilla does not taste like it",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "taste"
+    ],
+    "clean_sentence":"the vanilla does not taste like it",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"The vanilla does not taste like it",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"vanilla not taste like",
+    "token_before":7,
+    "token_after":4,
+    "removed_tokens":3,
+    "primary_aspect":"taste",
+    "aspect_count":1,
+    "aspect_source":{
+      "taste":"keyword"
+    },
+    "aspect_match_keyword":{
+      "taste":[
+        "taste"
+      ]
+    },
+    "lemma_sentence":"vanilla not taste like",
+    "google_translation":null,
+    "text_score":-0.6981609464,
+    "final_score":-0.5585287571
+  },
+  {
+    "sentence_id":628,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-04-28",
+    "original_sentence":"Selamat sampai dengan baik",
+    "translated_sentence":"welcome well",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"welcome well",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Selamat sampai dengan baik",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"welcome well",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "well"
+      ]
+    },
+    "lemma_sentence":"welcome well",
+    "google_translation":null,
+    "text_score":0.8697703481,
+    "final_score":0.6958162785
+  },
+  {
+    "sentence_id":1098,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2020-12-16",
+    "original_sentence":"Terbaekkk, siap dpt free gift bar",
+    "translated_sentence":"teraekkk, ready to get a free gift bar",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"teraekk, ready to get a free gift bar",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Terbaekkk, siap dapat free gift bar",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"teraekk, ready get free gift bar",
+    "token_before":8,
+    "token_after":6,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"teraekk, ready get free gift bar",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":6220,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-05-26",
+    "original_sentence":"hari ni baru try",
+    "translated_sentence":"just tried today",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"just tried today",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"hari ni baru try",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"tried today",
+    "token_before":3,
+    "token_after":2,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"try today",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":5562,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-11",
+    "original_sentence":"Tapi mcm xbleh amik slalu sgt",
+    "translated_sentence":"but how can i take it all the time?",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"but how can i take it all the time",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Tapi mcm xbleh ambil slalu sangat",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"take time",
+    "token_before":9,
+    "token_after":2,
+    "removed_tokens":7,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"take time",
+    "google_translation":null,
+    "text_score":-0.4879837632,
+    "final_score":-0.3903870106
+  },
+  {
+    "sentence_id":3907,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":2,
+    "review_date":"2026-03-28",
+    "original_sentence":"20 utk seketul kecik lagu tu tak pada langsung",
+    "translated_sentence":"20 for a small piece, the song didn't play at all",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"20 for a small piece, the song didn't play at all",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"20 untuk seketul kecik lagu tu tak pada langsung",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"small piece, song didn't play",
+    "token_before":11,
+    "token_after":5,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"small piece, song didn't play",
+    "google_translation":null,
+    "text_score":-0.6711105108,
+    "final_score":-0.5368884087
+  },
+  {
+    "sentence_id":1289,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-07-21",
+    "original_sentence":"Pisang tu rase pekat betul melekat dekat tekak",
+    "translated_sentence":"the banana feels really thick and sticks close to the throat",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"the banana feels really thick and sticks close to the throat",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Pisang tu rase pekat betul melekat dekat tekak",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"banana feels really thick sticks close throat",
+    "token_before":11,
+    "token_after":7,
+    "removed_tokens":4,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"banana feel really thick stick close throat",
+    "google_translation":null,
+    "text_score":-0.6284379959,
+    "final_score":-0.5027503967
+  },
+  {
+    "sentence_id":3403,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-01-25",
+    "original_sentence":"Recommended \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+    "translated_sentence":"recommended \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+    "emoji":[
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d",
+      "\ud83d\udc4d"
+    ],
+    "emoji_sentiment":"positive",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"recommended",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Recommended \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\udc4d"
+    ],
+    "emoji_count":11,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "approval",
+      "approval",
+      "approval",
+      "approval",
+      "approval",
+      "approval",
+      "approval",
+      "approval",
+      "approval",
+      "approval",
+      "approval"
+    ],
+    "emoji_summary":[
+      "approval"
+    ],
+    "emoji_category":[
+      "positive",
+      "positive",
+      "positive",
+      "positive",
+      "positive",
+      "positive",
+      "positive",
+      "positive",
+      "positive",
+      "positive",
+      "positive"
+    ],
+    "emoji_category_unique":[
+      "positive"
+    ],
+    "emoji_score":0.5221143474,
+    "emoji_intensity":"medium",
+    "relevance_status":"emoji_review",
+    "relevance_reason":"Emoji Review",
+    "stopword_sentence":"recommended",
+    "token_before":1,
+    "token_after":1,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"recommend",
+    "google_translation":null,
+    "text_score":0.9693323374,
+    "final_score":0.8798887394
+  },
+  {
+    "sentence_id":6197,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":3,
+    "review_date":"2026-05-29",
+    "original_sentence":"Sesuai utk brsuka",
+    "translated_sentence":"suitable for brsuka",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"suitable for brsuka",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Sesuai untuk brsuka",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"suitable brsuka",
+    "token_before":3,
+    "token_after":2,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"suitable brsuka",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":7583,
+    "source_file":"SiS_GO_Isotonic_Gel.json",
+    "product_id":"SiS_GO_Isotonic_Gel",
+    "category":"Energy Gel",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-09-13",
+    "original_sentence":"recommended gel nie sangat bagus \ud83d\udc4d\ud83c\udffb",
+    "translated_sentence":"recommended, this gel is very good \ud83d\udc4d\ud83c\udffb",
+    "emoji":[
+      "\ud83d\udc4d"
+    ],
+    "emoji_sentiment":"positive",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"recommended, this gel is very good",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"recommended gel nie sangat bagus \ud83d\udc4d\ud83c\udffb",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\udc4d"
+    ],
+    "emoji_count":1,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "approval"
+    ],
+    "emoji_summary":[
+      "approval"
+    ],
+    "emoji_category":[
+      "positive"
+    ],
+    "emoji_category_unique":[
+      "positive"
+    ],
+    "emoji_score":0.5221143474,
+    "emoji_intensity":"medium",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"recommended, gel very good",
+    "token_before":6,
+    "token_after":4,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"recommend, gel very good",
+    "google_translation":null,
+    "text_score":0.9825719595,
+    "final_score":0.8904804371
+  },
+  {
+    "sentence_id":7067,
+    "source_file":"Nuun_Sport_Tablets.json",
+    "product_id":"Nuun_Sport_Tablets",
+    "category":"Electrolyte",
+    "brand":"Nuun",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-09-02",
+    "original_sentence":"Next update review product after keluar dari Gunung",
+    "translated_sentence":"next update product review after leaving mount",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"next update product review after leaving mount",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Next update review product after keluar dari Gunung",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"next update product review leaving mount",
+    "token_before":7,
+    "token_after":6,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"next update product review leave mount",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":2830,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-09-20",
+    "original_sentence":"Effectiveness: x try lagi yg perisa ni",
+    "translated_sentence":"effectiveness: do not try this flavor again",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness",
+      "taste"
+    ],
+    "clean_sentence":"effectiveness: do not try this flavor again",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Effectiveness: tak try lagi yang perisa ni",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: not try flavor again",
+    "token_before":7,
+    "token_after":5,
+    "removed_tokens":2,
+    "primary_aspect":"effectiveness",
+    "aspect_count":2,
+    "aspect_source":{
+      "effectiveness":"explicit",
+      "taste":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ],
+      "taste":[
+        "flavor"
+      ]
+    },
+    "lemma_sentence":"effectiveness: not try flavor again",
+    "google_translation":null,
+    "text_score":-0.8009743094,
+    "final_score":-0.6407794476
+  },
+  {
+    "sentence_id":1320,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-05-01",
+    "original_sentence":"Sy akan cuba dalam race dua minggu lagi",
+    "translated_sentence":"i will try in the race in two weeks",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i will try in the race in two weeks",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"saya akan cuba dalam race dua minggu lagi",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"try race two weeks",
+    "token_before":9,
+    "token_after":4,
+    "removed_tokens":5,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"try race two week",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":7864,
+    "source_file":"SiS_Hydro_Tablets.json",
+    "product_id":"SiS_Hydro_Tablets",
+    "category":"Electrolyte",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-12-13",
+    "original_sentence":"Compulsory to consume it for every long run more than 21KM",
+    "translated_sentence":"compulsory to consume it for every long run more than 21km",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"compulsory to consume it for every long run more than 21km",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Compulsory to consume it for every long run more than 21KM",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"compulsory consume every long run more km",
+    "token_before":11,
+    "token_after":7,
+    "removed_tokens":4,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "run"
+      ]
+    },
+    "lemma_sentence":"compulsory consume every long run more km",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":1828,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-04-02",
+    "original_sentence":"And a surprise free item",
+    "translated_sentence":"and a surprise free item",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"and a surprise free item",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"And a surprise free item",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"surprise free item",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"surprise free item",
+    "google_translation":null,
+    "text_score":0.6453642249,
+    "final_score":0.5162913799
+  },
+  {
+    "sentence_id":1614,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-07-21",
+    "original_sentence":"Effectiveness: Super good to run with",
+    "translated_sentence":"effectiveness: super good to run with",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: super good to run with",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Effectiveness: Super good to run with",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: super good run",
+    "token_before":6,
+    "token_after":4,
+    "removed_tokens":2,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: super good run",
+    "google_translation":null,
+    "text_score":0.9791260958,
+    "final_score":0.7833008766
+  },
+  {
+    "sentence_id":5565,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-11",
+    "original_sentence":"Kalau bersukan berat lebih drpd 2 kali seminggu",
+    "translated_sentence":"if you do heavy sports more than 2 times a week",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"if you do heavy sports more than 2 times a week",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Kalau bersukan berat lebih drpd 2 kali seminggu",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"heavy sports more times week",
+    "token_before":11,
+    "token_after":5,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"heavy sports more times week",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":1819,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2020-11-28",
+    "original_sentence":"Siap ada free gift energy bar padahal bukan beli byk sgt pun",
+    "translated_sentence":"ready to get a free energy bar gift even if you don't buy a lot",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"ready to get a free energy bar gift even if you don't buy a lot",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Siap ada free gift energy bar padahal bukan beli banyak sangat pun",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"ready get free energy bar gift even don't buy lot",
+    "token_before":15,
+    "token_after":10,
+    "removed_tokens":5,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "energy"
+      ]
+    },
+    "lemma_sentence":"ready get free energy bar gift even don't buy lot",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":4176,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Energy Gel",
+    "brand":"",
+    "product_name":"",
+    "rating":3,
+    "review_date":"2026-06-06",
+    "original_sentence":"Effectiveness: less sodium, so need to mix with other gel",
+    "translated_sentence":"effectiveness: less sodium, so need to mix with other gel",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: less sodium, so need to mix with other gel",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Effectiveness: less sodium, so need to mix with other gel",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: less sodium, need mix gel",
+    "token_before":10,
+    "token_after":6,
+    "removed_tokens":4,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: less sodium, need mix gel",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":5503,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":1,
+    "review_date":"2022-09-08",
+    "original_sentence":"\ud83d\ude14\ud83d\ude14",
+    "translated_sentence":"\ud83d\ude14\ud83d\ude14",
+    "emoji":[
+      "\ud83d\ude14",
+      "\ud83d\ude14"
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"\ud83d\ude14\ud83d\ude14",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\ude14"
+    ],
+    "emoji_count":2,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "sad",
+      "sad"
+    ],
+    "emoji_summary":[
+      "sad"
+    ],
+    "emoji_category":[
+      "negative",
+      "negative"
+    ],
+    "emoji_category_unique":[
+      "negative"
+    ],
+    "emoji_score":-0.1460580913,
+    "emoji_intensity":"weak",
+    "relevance_status":"emoji_review",
+    "relevance_reason":"Emoji Review",
+    "stopword_sentence":"",
+    "token_before":0,
+    "token_after":0,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"",
+    "google_translation":null,
+    "text_score":-0.60140872,
+    "final_score":-0.5103385943
+  },
+  {
+    "sentence_id":427,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-03-28",
+    "original_sentence":"Now looking for the right flavour",
+    "translated_sentence":"now looking for the right flavour",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "taste"
+    ],
+    "clean_sentence":"now looking for the right flavour",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Now looking for the right flavour",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"looking right flavour",
+    "token_before":6,
+    "token_after":3,
+    "removed_tokens":3,
+    "primary_aspect":"taste",
+    "aspect_count":1,
+    "aspect_source":{
+      "taste":"keyword"
+    },
+    "aspect_match_keyword":{
+      "taste":[
+        "flavour"
+      ]
+    },
+    "lemma_sentence":"look right flavour",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":6142,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-06-11",
+    "original_sentence":"msj perhantar tu x balas\u00b2",
+    "translated_sentence":"the message i sent was not answered",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"the message i sent was not answered",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"msj perhantar tu tak balas\u00b2",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"message sent not answered",
+    "token_before":7,
+    "token_after":4,
+    "removed_tokens":3,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"message send not answer",
+    "google_translation":null,
+    "text_score":-0.7239735723,
+    "final_score":-0.5791788578
+  },
+  {
+    "sentence_id":5879,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-18",
+    "original_sentence":"Quality: good good",
+    "translated_sentence":"quality: good good",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "quality"
+    ],
+    "clean_sentence":"quality: good good",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Quality: good good",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"quality: good",
+    "token_before":3,
+    "token_after":2,
+    "removed_tokens":1,
+    "primary_aspect":"quality",
+    "aspect_count":1,
+    "aspect_source":{
+      "quality":"explicit"
+    },
+    "aspect_match_keyword":{
+      "quality":[
+        "quality:"
+      ]
+    },
+    "lemma_sentence":"quality: good",
+    "google_translation":null,
+    "text_score":0.8941312432,
+    "final_score":0.7153049946
+  },
+  {
+    "sentence_id":1744,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-10-28",
+    "original_sentence":"sorry for unrelated pictures and videos",
+    "translated_sentence":"sorry for unrelated pictures and videos",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"sorry for unrelated pictures and videos",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"sorry for unrelated pictures and videos",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"sorry unrelated pictures videos",
+    "token_before":6,
+    "token_after":4,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"sorry unrelated picture videos",
+    "google_translation":null,
+    "text_score":-0.6459712386,
+    "final_score":-0.5167769909
+  },
+  {
+    "sentence_id":6078,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-06-21",
+    "original_sentence":"Quality: mudah larut dalam air & mudah di hadam",
+    "translated_sentence":"quality: easily soluble in water & easy to digest",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "quality"
+    ],
+    "clean_sentence":"quality: easily soluble in water & easy to digest",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Quality: mudah larut dalam air & mudah di hadam",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"quality: easily soluble water & easy digest",
+    "token_before":9,
+    "token_after":7,
+    "removed_tokens":2,
+    "primary_aspect":"quality",
+    "aspect_count":1,
+    "aspect_source":{
+      "quality":"explicit"
+    },
+    "aspect_match_keyword":{
+      "quality":[
+        "quality:"
+      ]
+    },
+    "lemma_sentence":"quality: easily soluble water & easy digest",
+    "google_translation":null,
+    "text_score":0.8914088011,
+    "final_score":0.7131270409
+  },
+  {
+    "sentence_id":4149,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Electrolyte",
+    "brand":"",
+    "product_name":"",
+    "rating":2,
+    "review_date":"2024-07-26",
+    "original_sentence":"The powder is lumpy and hardened",
+    "translated_sentence":"the powder is lumpy and hardened",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"the powder is lumpy and hardened",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"The powder is lumpy and hardened",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"powder lumpy hardened",
+    "token_before":6,
+    "token_after":3,
+    "removed_tokens":3,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"powder lumpy harden",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":5903,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-03-12",
+    "original_sentence":"Terima kasih barang da terima semua ok",
+    "translated_sentence":"thank you for the goods and received everything is ok",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"thank you for the goods and received everything is ok",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Terima kasih barang da terima semua ok",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"thank goods received everything ok",
+    "token_before":10,
+    "token_after":5,
+    "removed_tokens":5,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"thank goods receive everything ok",
+    "google_translation":null,
+    "text_score":0.912042141,
+    "final_score":0.7296337128
+  },
+  {
+    "sentence_id":194,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-27",
+    "original_sentence":"Harga mampu milik",
+    "translated_sentence":"affordable price",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "price"
+    ],
+    "clean_sentence":"affordable price",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Harga mampu milik",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"affordable price",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":"price",
+    "aspect_count":1,
+    "aspect_source":{
+      "price":"keyword"
+    },
+    "aspect_match_keyword":{
+      "price":[
+        "affordable",
+        "price"
+      ]
+    },
+    "lemma_sentence":"affordable price",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":5354,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-08-31",
+    "original_sentence":"Everything came in good condition and nothing was damaged",
+    "translated_sentence":"everything came in good condition and nothing was damaged",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"everything came in good condition and nothing was damaged",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Everything came in good condition and nothing was damaged",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"everything came good condition nothing damaged",
+    "token_before":9,
+    "token_after":6,
+    "removed_tokens":3,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "damaged"
+      ]
+    },
+    "lemma_sentence":"everything come good condition nothing damage",
+    "google_translation":null,
+    "text_score":0.7966688275,
+    "final_score":0.637335062
+  },
+  {
+    "sentence_id":7961,
+    "source_file":"SiS_Hydro_Tablets.json",
+    "product_id":"SiS_Hydro_Tablets",
+    "category":"Electrolyte",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-25",
+    "original_sentence":"tp xdelah teruk sgt",
+    "translated_sentence":"but it's not very bad",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"but it's not very bad",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"tp xdelah teruk sangat",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"not very bad",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"not very bad",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":8007,
+    "source_file":"SiS_Hydro_Tablets.json",
+    "product_id":"SiS_Hydro_Tablets",
+    "category":"Electrolyte",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-05-08",
+    "original_sentence":"Using it for cycling for a long time",
+    "translated_sentence":"using it for cycling for a long time",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"using it for cycling for a long time",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Using it for cycling for a long time",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"using cycling long time",
+    "token_before":8,
+    "token_after":4,
+    "removed_tokens":4,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "cycling"
+      ]
+    },
+    "lemma_sentence":"use cycle long time",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":4435,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-05",
+    "original_sentence":"Lepas dah amik minum jer air masak sikit auto balance",
+    "translated_sentence":"after drinking a little boiled water, auto balance",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"after drinking a little boiled water, auto balance",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Lepas dah ambil minum saja air masak sedikit auto balance",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"drinking little boiled water, auto balance",
+    "token_before":8,
+    "token_after":6,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"drink little boiled water, auto balance",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":3599,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-05-08",
+    "original_sentence":"Sorry gambar tiada kaitan",
+    "translated_sentence":"sorry, the picture has nothing to do with it",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"sorry, the picture has nothing to do with it",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Sorry gambar tiada kaitan",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"sorry, picture nothing",
+    "token_before":9,
+    "token_after":3,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"sorry, picture nothing",
+    "google_translation":null,
+    "text_score":-0.5745978355,
+    "final_score":-0.4596782684
+  },
+  {
+    "sentence_id":1433,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-06-11",
+    "original_sentence":"Packaging tak berapa bagus",
+    "translated_sentence":"packaging is not that good",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"packaging is not that good",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Packaging tak berapa bagus",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"packaging not good",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "packaging"
+      ]
+    },
+    "lemma_sentence":"packaging not good",
+    "google_translation":null,
+    "text_score":-0.8399419188,
+    "final_score":-0.6719535351
+  },
+  {
+    "sentence_id":476,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2020-11-30",
+    "original_sentence":"Expiry date pun lama lagi",
+    "translated_sentence":"the expiry date is too long",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "expiry"
+    ],
+    "clean_sentence":"the expiry date is too long",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Expiry date pun lama lagi",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"expiry date too long",
+    "token_before":6,
+    "token_after":4,
+    "removed_tokens":2,
+    "primary_aspect":"expiry",
+    "aspect_count":1,
+    "aspect_source":{
+      "expiry":"keyword"
+    },
+    "aspect_match_keyword":{
+      "expiry":[
+        "expiry"
+      ]
+    },
+    "lemma_sentence":"expiry date too long",
+    "google_translation":null,
+    "text_score":-0.7482239604,
+    "final_score":-0.5985791683
+  },
+  {
+    "sentence_id":6568,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-02-02",
+    "original_sentence":"harap xde krem lg mcm naik gunung yg lepas",
+    "translated_sentence":"i hope there is no more cream like the last mountain climb",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i hope there is no more cream like the last mountain climb",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"harap tiada krem lg mcm naik gunung yang lepas",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"hope no more cream like last mountain climb",
+    "token_before":12,
+    "token_after":8,
+    "removed_tokens":4,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"hope no more cream like last mountain climb",
+    "google_translation":null,
+    "text_score":-0.4705523252,
+    "final_score":-0.3764418602
+  },
+  {
+    "sentence_id":2834,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-09-20",
+    "original_sentence":"perisa ni x try la",
+    "translated_sentence":"i don't even try it",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i don't even try it",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"perisa ni tak try la",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"don't even try",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"don't even try",
+    "google_translation":null,
+    "text_score":-0.4933910072,
+    "final_score":-0.3947128057
+  },
+  {
+    "sentence_id":6965,
+    "source_file":"Nuun_Sport_Tablets.json",
+    "product_id":"Nuun_Sport_Tablets",
+    "category":"Electrolyte",
+    "brand":"Nuun",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-02-10",
+    "original_sentence":"Quality: I'm still alive so ok I suppose",
+    "translated_sentence":"quality: i am still alive so ok i suppose",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "quality"
+    ],
+    "clean_sentence":"quality: i am still alive so ok i suppose",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Quality: i am still alive so ok I suppose",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"quality: still alive ok suppose",
+    "token_before":9,
+    "token_after":5,
+    "removed_tokens":4,
+    "primary_aspect":"quality",
+    "aspect_count":1,
+    "aspect_source":{
+      "quality":"explicit"
+    },
+    "aspect_match_keyword":{
+      "quality":[
+        "quality:"
+      ]
+    },
+    "lemma_sentence":"quality: still alive ok suppose",
+    "google_translation":null,
+    "text_score":0.8288627267,
+    "final_score":0.6630901814
+  },
+  {
+    "sentence_id":7109,
+    "source_file":"Nuun_Sport_Tablets.json",
+    "product_id":"Nuun_Sport_Tablets",
+    "category":"Electrolyte",
+    "brand":"Nuun",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-08-14",
+    "original_sentence":"Haven't tried it, but it smells good",
+    "translated_sentence":"have not tried it, but it smells good",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"have not tried it, but it smells good",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Have not tried it, but it smells good",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"not tried, smells good",
+    "token_before":8,
+    "token_after":4,
+    "removed_tokens":4,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"not try, smell good",
+    "google_translation":null,
+    "text_score":0.5276835561,
+    "final_score":0.4221468449
+  },
+  {
+    "sentence_id":1240,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-09-28",
+    "original_sentence":"next time nak oder lagi terbaikk terbaikk terbaikk terbaik terima kasih",
+    "translated_sentence":"next time i want to order again, the best, the best, the best, thank you",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"next time i want to order again, the best, the best, the best, thank you",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"next time nak oder lagi terbaik terbaik terbaik terbaik terima kasih",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"next time want order again, best, thank",
+    "token_before":15,
+    "token_after":7,
+    "removed_tokens":8,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"next time want order again, best, thank",
+    "google_translation":null,
+    "text_score":0.9756895304,
+    "final_score":0.7805516243
+  },
+  {
+    "sentence_id":4135,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Electrolyte",
+    "brand":"",
+    "product_name":"",
+    "rating":1,
+    "review_date":"2022-10-30",
+    "original_sentence":"Salt only and too expensive",
+    "translated_sentence":"salt only and too expensive",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "price"
+    ],
+    "clean_sentence":"salt only and too expensive",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Salt only and too expensive",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"salt too expensive",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":"price",
+    "aspect_count":1,
+    "aspect_source":{
+      "price":"keyword"
+    },
+    "aspect_match_keyword":{
+      "price":[
+        "expensive"
+      ]
+    },
+    "lemma_sentence":"salt too expensive",
+    "google_translation":null,
+    "text_score":-0.7757578492,
+    "final_score":-0.6206062794
+  },
+  {
+    "sentence_id":5941,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-12-18",
+    "original_sentence":"Bestt sngt",
+    "translated_sentence":"very best",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"very best",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Bestt sngt",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"very best",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"very best",
+    "google_translation":null,
+    "text_score":0.9142013192,
+    "final_score":0.7313610554
+  },
+  {
+    "sentence_id":1711,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-08-23",
+    "original_sentence":"supaya saya akan lebih fokus ketika kita hampir bonk",
+    "translated_sentence":"so that i will be more focused when we are almost bonk",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"so that i will be more focused when we are almost bonk",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"supaya saya akan lebih fokus ketika kita hampir bonk",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"more focused almost bonk",
+    "token_before":12,
+    "token_after":4,
+    "removed_tokens":8,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"more focused almost bonk",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":7974,
+    "source_file":"SiS_Hydro_Tablets.json",
+    "product_id":"SiS_Hydro_Tablets",
+    "category":"Electrolyte",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-04",
+    "original_sentence":"Ni nak cuba pineapple & mango",
+    "translated_sentence":"i don't even want cuba pineapple & mango",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i don't even want cuba pineapple & mango",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Ni nak cuba pineapple & mango",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"don't even want cuba pineapple & mango",
+    "token_before":8,
+    "token_after":7,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"don't even want cuba pineapple & mango",
+    "google_translation":null,
+    "text_score":-0.7607555985,
+    "final_score":-0.6086044788
+  },
+  {
+    "sentence_id":555,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-01-11",
+    "original_sentence":"Bought these for the first time",
+    "translated_sentence":"bought these for the first time",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"bought these for the first time",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Bought these for the first time",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"bought first time",
+    "token_before":6,
+    "token_after":3,
+    "removed_tokens":3,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"buy first time",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":1436,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-05-22",
+    "original_sentence":"Terbaiklah barang ni",
+    "translated_sentence":"this item is the best",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"this item is the best",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Terbaiklah barang ni",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"item best",
+    "token_before":5,
+    "token_after":2,
+    "removed_tokens":3,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"item best",
+    "google_translation":null,
+    "text_score":0.9816894531,
+    "final_score":0.7853515625
+  },
+  {
+    "sentence_id":3300,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-12-12",
+    "original_sentence":"Memang ngam teruk\ud83d\udc4d\ud83c\udffb",
+    "translated_sentence":"it's really bad",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"it's really bad",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Memang ngam teruk\ud83d\udc4d\ud83c\udffb",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"really bad",
+    "token_before":3,
+    "token_after":2,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"really bad",
+    "google_translation":null,
+    "text_score":-0.8552463055,
+    "final_score":-0.6841970444
+  },
+  {
+    "sentence_id":4354,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-03",
+    "original_sentence":"Product quality is excellent, quality guaranteed",
+    "translated_sentence":"product quality is excellent, quality guaranteed",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "quality"
+    ],
+    "clean_sentence":"product quality is excellent, quality guaranteed",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Product quality is excellent, quality guaranteed",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"product quality excellent, quality guaranteed",
+    "token_before":6,
+    "token_after":5,
+    "removed_tokens":1,
+    "primary_aspect":"quality",
+    "aspect_count":1,
+    "aspect_source":{
+      "quality":"keyword"
+    },
+    "aspect_match_keyword":{
+      "quality":[
+        "quality"
+      ]
+    },
+    "lemma_sentence":"product quality excellent, quality guarantee",
+    "google_translation":null,
+    "text_score":0.9585196376,
+    "final_score":0.7668157101
+  },
+  {
+    "sentence_id":271,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-01-03",
+    "original_sentence":"Effectiveness: suit to my body",
+    "translated_sentence":"effectiveness: suit to my body",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: suit to my body",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Effectiveness: suit to my body",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: suit body",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: suit body",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":2039,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":3,
+    "review_date":"2025-01-16",
+    "original_sentence":"Very sweet but not like vanilla",
+    "translated_sentence":"very sweet but not like vanilla",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "taste"
+    ],
+    "clean_sentence":"very sweet but not like vanilla",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Very sweet but not like vanilla",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"very sweet not like vanilla",
+    "token_before":6,
+    "token_after":5,
+    "removed_tokens":1,
+    "primary_aspect":"taste",
+    "aspect_count":1,
+    "aspect_source":{
+      "taste":"keyword"
+    },
+    "aspect_match_keyword":{
+      "taste":[
+        "sweet"
+      ]
+    },
+    "lemma_sentence":"very sweet not like vanilla",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":6401,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-04-25",
+    "original_sentence":"Effectiveness: vitamin jenis soluble ada rasa perubahan badan rasa lebih cergas",
+    "translated_sentence":"effectiveness: soluble vitamins have a sense of change in the body, feeling more energetic",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: soluble vitamins have a sense of change in the body, feeling more energetic",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Effectiveness: vitamin jenis soluble ada rasa perubahan badan rasa lebih cergas",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: soluble vitamins sense change body, feeling more energetic",
+    "token_before":14,
+    "token_after":9,
+    "removed_tokens":5,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: soluble vitamin sense change body, feel more energetic",
+    "google_translation":null,
+    "text_score":0.8560118675,
+    "final_score":0.684809494
+  },
+  {
+    "sentence_id":4164,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Energy Gel",
+    "brand":"",
+    "product_name":"",
+    "rating":3,
+    "review_date":"2025-11-08",
+    "original_sentence":"product leaked \ud83d\ude11",
+    "translated_sentence":"product leaked \ud83d\ude11",
+    "emoji":[
+      "\ud83d\ude11"
+    ],
+    "emoji_sentiment":"negative",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"product leaked",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"product leaked \ud83d\ude11",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\ude11"
+    ],
+    "emoji_count":1,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "EXPRESSIONLESS FACE"
+    ],
+    "emoji_summary":[
+      "EXPRESSIONLESS FACE"
+    ],
+    "emoji_category":[
+      "Emoticons"
+    ],
+    "emoji_category_unique":[
+      "Emoticons"
+    ],
+    "emoji_score":-0.3143812709,
+    "emoji_intensity":"medium",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"product leaked",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"product leak",
+    "google_translation":null,
+    "text_score":-0.8665323853,
+    "final_score":-0.7561021625
+  },
+  {
+    "sentence_id":1858,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-07-07",
+    "original_sentence":"Thanks for the free gels",
+    "translated_sentence":"thanks for the free gels",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"thanks for the free gels",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Thanks for the free gels",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"thanks free gels",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"thanks free gel",
+    "google_translation":null,
+    "text_score":0.9151072502,
+    "final_score":0.7320858002
+  },
+  {
+    "sentence_id":7997,
+    "source_file":"SiS_Hydro_Tablets.json",
+    "product_id":"SiS_Hydro_Tablets",
+    "category":"Electrolyte",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-03-14",
+    "original_sentence":"stakat ni",
+    "translated_sentence":"this size",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"this size",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"stakat ni",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"size",
+    "token_before":2,
+    "token_after":1,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"size",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":4976,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-01-21",
+    "original_sentence":"Trusted & cheaper I ever bought",
+    "translated_sentence":"trusted & cheaper i ever bought",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"trusted & cheaper i ever bought",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Trusted & cheaper I ever bought",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"trusted & cheaper ever bought",
+    "token_before":6,
+    "token_after":5,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"trust & cheap ever buy",
+    "google_translation":null,
+    "text_score":0.7642317414,
+    "final_score":0.6113853931
+  },
+  {
+    "sentence_id":1993,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-12-10",
+    "original_sentence":"Quality: kena beratur panjang",
+    "translated_sentence":"quality: have to queue long",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "quality"
+    ],
+    "clean_sentence":"quality: have to queue long",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Quality: kena beratur panjang",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"quality: queue long",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":"quality",
+    "aspect_count":1,
+    "aspect_source":{
+      "quality":"explicit"
+    },
+    "aspect_match_keyword":{
+      "quality":[
+        "quality:"
+      ]
+    },
+    "lemma_sentence":"quality: queue long",
+    "google_translation":null,
+    "text_score":-0.7334221005,
+    "final_score":-0.5867376804
+  },
+  {
+    "sentence_id":5255,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-08-03",
+    "original_sentence":"U can get extra energy and maintain your stamina in sports",
+    "translated_sentence":"you can get extra energy and maintain your stamina in sports",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"you can get extra energy and maintain your stamina in sports",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"you can get extra energy and maintain your stamina in sports",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"get extra energy maintain stamina sports",
+    "token_before":11,
+    "token_after":6,
+    "removed_tokens":5,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "energy",
+        "stamina"
+      ]
+    },
+    "lemma_sentence":"get extra energy maintain stamina sports",
+    "google_translation":null,
+    "text_score":0.5243426561,
+    "final_score":0.4194741249
+  },
+  {
+    "sentence_id":670,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-09-22",
+    "original_sentence":"klu berbaloi kita tukar pakai gammer ni pula",
+    "translated_sentence":"if it's worth it, let's change to this gamer",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "price"
+    ],
+    "clean_sentence":"if it's worth it, let's change to this gamer",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"klu berbaloi kita tukar pakai gammer ni pula",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"worth, let's change gamer",
+    "token_before":9,
+    "token_after":4,
+    "removed_tokens":5,
+    "primary_aspect":"price",
+    "aspect_count":1,
+    "aspect_source":{
+      "price":"keyword"
+    },
+    "aspect_match_keyword":{
+      "price":[
+        "worth"
+      ]
+    },
+    "lemma_sentence":"worth, let's change gamer",
+    "google_translation":null,
+    "text_score":0.6073997021,
+    "final_score":0.4859197617
+  },
+  {
+    "sentence_id":7141,
+    "source_file":"Nuun_Sport_Tablets.json",
+    "product_id":"Nuun_Sport_Tablets",
+    "category":"Electrolyte",
+    "brand":"Nuun",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-09-29",
+    "original_sentence":"Repeat purchase, but orange flavour out of stock for the second time, received 2 days after ordering",
+    "translated_sentence":"repeat purchase, but orange flavour out of stock for the second time, received 2 days after ordering",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "taste"
+    ],
+    "clean_sentence":"repeat purchase, but orange flavour out of stock for the second time, received 2 days after ordering",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Repeat purchase, but orange flavour out of stock for the second time, received 2 days after ordering",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"repeat purchase, orange flavour stock second time, received days ordering",
+    "token_before":17,
+    "token_after":10,
+    "removed_tokens":7,
+    "primary_aspect":"taste",
+    "aspect_count":1,
+    "aspect_source":{
+      "taste":"keyword"
+    },
+    "aspect_match_keyword":{
+      "taste":[
+        "flavour",
+        "orange"
+      ]
+    },
+    "lemma_sentence":"repeat purchase, orange flavour stock second time, receive day order",
+    "google_translation":null,
+    "text_score":-0.7918983102,
+    "final_score":-0.6335186481
+  },
+  {
+    "sentence_id":8013,
+    "source_file":"SiS_Hydro_Tablets.json",
+    "product_id":"SiS_Hydro_Tablets",
+    "category":"Electrolyte",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-04-13",
+    "original_sentence":"But I was kind of disappointed because it got maltodextrin",
+    "translated_sentence":"but i was kind of disappointed because it got maltodextrin",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"but i was kind of disappointed because it got maltodextrin",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"But I was kind of disappointed because it got maltodextrin",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"kind disappointed got maltodextrin",
+    "token_before":10,
+    "token_after":4,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"kind disappointed get maltodextrin",
+    "google_translation":null,
+    "text_score":-0.8485682607,
+    "final_score":-0.6788546085
+  },
+  {
+    "sentence_id":1140,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-04-12",
+    "original_sentence":"Haven\u2019t try it out yet, hopefully it works \ud83d\udc40 Expiring in 2027",
+    "translated_sentence":"have not try it out yet, hopefully it works \ud83d\udc40 expiring in 2027",
+    "emoji":[
+      "\ud83d\udc40"
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"have not try it out yet, hopefully it works expiring in 2027",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Have not try it out yet, hopefully it works \ud83d\udc40 Expiring in 2027",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\udc40"
+    ],
+    "emoji_count":1,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "look"
+    ],
+    "emoji_summary":[
+      "look"
+    ],
+    "emoji_category":[
+      "context"
+    ],
+    "emoji_category_unique":[
+      "context"
+    ],
+    "emoji_score":0.0634146341,
+    "emoji_intensity":"weak",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"not try yet, hopefully works expiring",
+    "token_before":12,
+    "token_after":6,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"not try yet, hopefully work expire",
+    "google_translation":null,
+    "text_score":0.7038314342,
+    "final_score":0.5757480742
+  },
+  {
+    "sentence_id":352,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-12-20",
+    "original_sentence":"Nicely and safely packed",
+    "translated_sentence":"nicely and safely packed",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"nicely and safely packed",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Nicely and safely packed",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"nicely safely packed",
+    "token_before":4,
+    "token_after":3,
+    "removed_tokens":1,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "packed"
+      ]
+    },
+    "lemma_sentence":"nicely safely packed",
+    "google_translation":null,
+    "text_score":0.9360259175,
+    "final_score":0.748820734
+  },
+  {
+    "sentence_id":1978,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":3,
+    "review_date":"2024-08-04",
+    "original_sentence":"1 packaging rosak \ud83e\udd79",
+    "translated_sentence":"1 packaging was damaged \ud83e\udd79",
+    "emoji":[
+      "\ud83e\udd79"
+    ],
+    "emoji_sentiment":"negative",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"1 packaging was damaged",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"1 packaging rosak \ud83e\udd79",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83e\udd79"
+    ],
+    "emoji_count":1,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "tears"
+    ],
+    "emoji_summary":[
+      "tears"
+    ],
+    "emoji_category":[
+      "context"
+    ],
+    "emoji_category_unique":[
+      "context"
+    ],
+    "emoji_score":-0.2,
+    "emoji_intensity":"weak",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"packaging damaged",
+    "token_before":4,
+    "token_after":2,
+    "removed_tokens":2,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "damaged",
+        "packaging"
+      ]
+    },
+    "lemma_sentence":"packaging damage",
+    "google_translation":null,
+    "text_score":-0.8216267824,
+    "final_score":-0.6973014259
+  },
+  {
+    "sentence_id":2540,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-12-13",
+    "original_sentence":"Mmg dah repeat order byk kali",
+    "translated_sentence":"i have repeated the order many times",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i have repeated the order many times",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"memang dah repeat order banyak kali",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"repeated order many times",
+    "token_before":7,
+    "token_after":4,
+    "removed_tokens":3,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"repeat order many times",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":3478,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-04-24",
+    "original_sentence":"Ada bar yg kemek bila buka",
+    "translated_sentence":"there is a bar that is dented when opened",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"there is a bar that is dented when opened",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Ada bar yang kemek bila buka",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"bar dented opened",
+    "token_before":9,
+    "token_after":3,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"bar dent open",
+    "google_translation":null,
+    "text_score":-0.675624907,
+    "final_score":-0.5404999256
+  },
+  {
+    "sentence_id":5300,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-10-19",
+    "original_sentence":"Effectiveness: tq bos",
+    "translated_sentence":"effectiveness: thank you boss",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: thank you boss",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Effectiveness: terima kasih bos",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: thank boss",
+    "token_before":4,
+    "token_after":3,
+    "removed_tokens":1,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: thank boss",
+    "google_translation":null,
+    "text_score":0.9622741938,
+    "final_score":0.769819355
+  },
+  {
+    "sentence_id":2780,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-11-21",
+    "original_sentence":"Can't wait to try it",
+    "translated_sentence":"cannot wait to try it",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"cannot wait to try it",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"cannot wait to try it",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"cannot wait try",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"cannot wait try",
+    "google_translation":null,
+    "text_score":0.9672321677,
+    "final_score":0.7737857342
+  },
+  {
+    "sentence_id":7171,
+    "source_file":"Nuun_Sport_Tablets.json",
+    "product_id":"Nuun_Sport_Tablets",
+    "category":"Electrolyte",
+    "brand":"Nuun",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-04-30",
+    "original_sentence":"Also tells you expiry dates as well",
+    "translated_sentence":"also tells you expiry dates as well",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging",
+      "expiry"
+    ],
+    "clean_sentence":"also tells you expiry dates as well",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Also tells you expiry dates as well",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"also tells expiry dates well",
+    "token_before":7,
+    "token_after":5,
+    "removed_tokens":2,
+    "primary_aspect":"packaging",
+    "aspect_count":2,
+    "aspect_source":{
+      "packaging":"keyword",
+      "expiry":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "well"
+      ],
+      "expiry":[
+        "expiry"
+      ]
+    },
+    "lemma_sentence":"also tell expiry date well",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":5360,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-06",
+    "original_sentence":"bungkusan baik",
+    "translated_sentence":"good package",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"good package",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"bungkusan baik",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"good package",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "package"
+      ]
+    },
+    "lemma_sentence":"good package",
+    "google_translation":null,
+    "text_score":0.8780869842,
+    "final_score":0.7024695873
+  },
+  {
+    "sentence_id":8021,
+    "source_file":"SiS_Hydro_Tablets.json",
+    "product_id":"SiS_Hydro_Tablets",
+    "category":"Electrolyte",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-02-03",
+    "original_sentence":"Effectiveness: great \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc",
+    "translated_sentence":"effectiveness: great \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc",
+    "emoji":[
+      "\ud83d\udc4d",
+      "\ud83d\udc4d"
+    ],
+    "emoji_sentiment":"positive",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: great",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Effectiveness: great \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\udc4d"
+    ],
+    "emoji_count":2,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "approval",
+      "approval"
+    ],
+    "emoji_summary":[
+      "approval"
+    ],
+    "emoji_category":[
+      "positive",
+      "positive"
+    ],
+    "emoji_category_unique":[
+      "positive"
+    ],
+    "emoji_score":0.5221143474,
+    "emoji_intensity":"medium",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: great",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: great",
+    "google_translation":null,
+    "text_score":0.9833989143,
+    "final_score":0.8911420009
+  },
+  {
+    "sentence_id":2693,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-01-17",
+    "original_sentence":"Hope to give me the energy i need",
+    "translated_sentence":"hope to give me the energy i need",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"hope to give me the energy i need",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Hope to give me the energy i need",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"hope give energy need",
+    "token_before":8,
+    "token_after":4,
+    "removed_tokens":4,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "energy"
+      ]
+    },
+    "lemma_sentence":"hope give energy need",
+    "google_translation":null,
+    "text_score":0.8347261548,
+    "final_score":0.6677809238
+  },
+  {
+    "sentence_id":6152,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":4,
+    "review_date":"2026-06-04",
+    "original_sentence":"Tapi mcm bahya sikit kalau nak amik \u2026bolehla guna untuk sebulan sekali hahahaha jgn mnum banyak dia nye pegi memg mantap xletih tp tkut de side effect",
+    "translated_sentence":"but it's a little dangerous if you want to take it...you can use it once a month hahahaha don't drink a lot of it, it's going to make you feel tired but still have side effects",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"but it's a little dangerous if you want to take it, you can use it once a month hahahaha don't drink a lot of it, it's going to make you feel tired but still have side effects",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Tapi mcm bahya sedikit kalau nak ambil \u2026bolehla guna untuk sebulan sekali hahahaha jgn mnum banyak dia nye pegi memg mantap xletih tp tkut de side effect",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"little dangerous want take, use month hahahaha don't drink lot, going make feel tired still side effects",
+    "token_before":37,
+    "token_after":17,
+    "removed_tokens":20,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"little dangerous want take, use month hahahaha don't drink lot, go make feel tired still side effect",
+    "google_translation":null,
+    "text_score":-0.6945323348,
+    "final_score":-0.5556258678
+  },
+  {
+    "sentence_id":2019,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-10-06",
+    "original_sentence":"Effectiveness: yes",
+    "translated_sentence":"effectiveness: yes",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: yes",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Effectiveness: yes",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: yes",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: yes",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":6465,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-02-10",
+    "original_sentence":"Elly Sabrina Nina Untuk kemasukan ke SBP dan SMKA, Kementerian Pendidikan Malaysia menggunakan Pentaksiran Kemasukan Sekolah Khusus (PKSK) sebagai sistem merit tunggal",
+    "translated_sentence":"elly sabrina nina for admission to sbp and smka, the malaysian ministry of education uses the special school admission assessment (pksk) as a single merit system",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"elly sabrina nina for admission to sbp and smka, the malaysian ministry of education uses the special school admission assessment (pksk) as a single merit system",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Elly Sabrina Nina Untuk kemasukan ke SBP dan SMKA, Kementerian Pendidikan Malaysia menggunakan Pentaksiran Kemasukan Sekolah Khusus (PKSK) sebagai sistem merit tunggal",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"elly sabrina nina admission sbp smka, malaysian ministry education uses special school admission assessment ( pksk ) single merit system",
+    "token_before":26,
+    "token_after":20,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"elly sabrina nina admission sbp smka, malaysian ministry education use special school admission assessment ( pksk ) single merit system",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":4843,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-01-06",
+    "original_sentence":"Packaging was superb",
+    "translated_sentence":"packaging was superb",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"packaging was superb",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Packaging was superb",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"packaging superb",
+    "token_before":3,
+    "token_after":2,
+    "removed_tokens":1,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "packaging"
+      ]
+    },
+    "lemma_sentence":"packaging superb",
+    "google_translation":null,
+    "text_score":0.9422593713,
+    "final_score":0.753807497
+  },
+  {
+    "sentence_id":6178,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":3,
+    "review_date":"2026-06-22",
+    "original_sentence":"Quality: packing kurang memuaskan, kebanyakan isi pil pecah",
+    "translated_sentence":"quality: packing is not satisfactory, most of the pills are broken",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "quality",
+      "packaging"
+    ],
+    "clean_sentence":"quality: packing is not satisfactory, most of the pills are broken",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Quality: packing kurang memuaskan, kebanyakan isi pil pecah",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"quality: packing not satisfactory, most pills broken",
+    "token_before":11,
+    "token_after":7,
+    "removed_tokens":4,
+    "primary_aspect":"quality",
+    "aspect_count":2,
+    "aspect_source":{
+      "quality":"explicit",
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "quality":[
+        "quality:"
+      ],
+      "packaging":[
+        "broken"
+      ]
+    },
+    "lemma_sentence":"quality: packing not satisfactory, most pill break",
+    "google_translation":null,
+    "text_score":-0.9293212891,
+    "final_score":-0.7434570313
+  },
+  {
+    "sentence_id":4178,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Energy Gel",
+    "brand":"",
+    "product_name":"",
+    "rating":2,
+    "review_date":"2025-03-19",
+    "original_sentence":"Poor after negligence packaging",
+    "translated_sentence":"poor after negligence packaging",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "packaging"
+    ],
+    "clean_sentence":"poor after negligence packaging",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"Poor after negligence packaging",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"poor negligence packaging",
+    "token_before":4,
+    "token_after":3,
+    "removed_tokens":1,
+    "primary_aspect":"packaging",
+    "aspect_count":1,
+    "aspect_source":{
+      "packaging":"keyword"
+    },
+    "aspect_match_keyword":{
+      "packaging":[
+        "packaging"
+      ]
+    },
+    "lemma_sentence":"poor negligence packaging",
+    "google_translation":null,
+    "text_score":-0.8840609789,
+    "final_score":-0.7072487831
+  },
+  {
+    "sentence_id":6903,
+    "source_file":"Nuun_Sport_Tablets.json",
+    "product_id":"Nuun_Sport_Tablets",
+    "category":"Electrolyte",
+    "brand":"Nuun",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2023-08-26",
+    "original_sentence":"Very effective and taste great",
+    "translated_sentence":"very effective and taste great",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness",
+      "taste"
+    ],
+    "clean_sentence":"very effective and taste great",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Very effective and taste great",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"very effective taste great",
+    "token_before":5,
+    "token_after":4,
+    "removed_tokens":1,
+    "primary_aspect":"effectiveness",
+    "aspect_count":2,
+    "aspect_source":{
+      "effectiveness":"keyword",
+      "taste":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effective"
+      ],
+      "taste":[
+        "taste"
+      ]
+    },
+    "lemma_sentence":"very effective taste great",
+    "google_translation":null,
+    "text_score":0.9747230411,
+    "final_score":0.7797784328
+  },
+  {
+    "sentence_id":3411,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-01-14",
+    "original_sentence":"dh byk kali repeat",
+    "translated_sentence":"i have repeated it many times",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i have repeated it many times",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"dah banyak kali repeat",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"repeated many times",
+    "token_before":6,
+    "token_after":3,
+    "removed_tokens":3,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"repeat many times",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":3971,
+    "source_file":"Hutan_Ration_Energy_Bar.json",
+    "product_id":"Hutan_Ration_Energy_Bar",
+    "category":"Endurance Nutrition Bar",
+    "brand":"Hutan Ration",
+    "product_name":"BSN Crisp Bar (1 Pcs) [Free Gift] | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-06-12",
+    "original_sentence":"Like the moistness so when eat during exercise like run or hike, won't too thirsty",
+    "translated_sentence":"like the moistness so when eat during exercise like run or hike, will not too thirsty",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"like the moistness so when eat during exercise like run or hike, will not too thirsty",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"Like the moistness so when eat during exercise like run or hike, will not too thirsty",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"like moistness eat exercise like run hike, not too thirsty",
+    "token_before":16,
+    "token_after":10,
+    "removed_tokens":6,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "exercise",
+        "run"
+      ]
+    },
+    "lemma_sentence":"like moistness eat exercise like run hike, not too thirsty",
+    "google_translation":null,
+    "text_score":0.5024476051,
+    "final_score":0.4019580841
+  },
+  {
+    "sentence_id":1850,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-08-26",
+    "original_sentence":"\ud83d\udc4d\ud83c\udffd",
+    "translated_sentence":"\ud83d\udc4d\ud83c\udffd",
+    "emoji":[
+      "\ud83d\udc4d"
+    ],
+    "emoji_sentiment":"positive",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"\ud83d\udc4d\ud83c\udffd",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\udc4d"
+    ],
+    "emoji_count":1,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "approval"
+    ],
+    "emoji_summary":[
+      "approval"
+    ],
+    "emoji_category":[
+      "positive"
+    ],
+    "emoji_category_unique":[
+      "positive"
+    ],
+    "emoji_score":0.5221143474,
+    "emoji_intensity":"medium",
+    "relevance_status":"emoji_review",
+    "relevance_reason":"Emoji Review",
+    "stopword_sentence":"",
+    "token_before":0,
+    "token_after":0,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"",
+    "google_translation":null,
+    "text_score":0.894733727,
+    "final_score":0.8202098511
+  },
+  {
+    "sentence_id":4087,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Endurance Nutrition Bar",
+    "brand":"",
+    "product_name":"",
+    "rating":1,
+    "review_date":"2025-09-27",
+    "original_sentence":"Item Not as Described",
+    "translated_sentence":"item not as described",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"item not as described",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Item Not as Described",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"item not described",
+    "token_before":4,
+    "token_after":3,
+    "removed_tokens":1,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"item not describe",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":5055,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2021-12-15",
+    "original_sentence":"Tq dah smpai",
+    "translated_sentence":"thank you for arriving",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"thank you for arriving",
+    "relevant":null,
+    "text_sentiment":"positive",
+    "final_sentiment":"positive",
+    "normalized_sentence":"terima kasih dah sampai",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"thank arriving",
+    "token_before":4,
+    "token_after":2,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"thank arrive",
+    "google_translation":null,
+    "text_score":0.9183112383,
+    "final_score":0.7346489906
+  },
+  {
+    "sentence_id":7711,
+    "source_file":"SiS_GO_Isotonic_Gel.json",
+    "product_id":"SiS_GO_Isotonic_Gel",
+    "category":"Energy Gel",
+    "brand":"SiS",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2026-05-07",
+    "original_sentence":"Texture: not yet try",
+    "translated_sentence":"texture: not yet try",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"texture: not yet try",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Texture: not yet try",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"texture: not yet try",
+    "token_before":4,
+    "token_after":4,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"texture: not yet try",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":4102,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Endurance Nutrition Bar",
+    "brand":"",
+    "product_name":"",
+    "rating":1,
+    "review_date":"2025-10-08",
+    "original_sentence":"The energy bar was very hard, like a rock",
+    "translated_sentence":"the energy bar was very hard, like a rock",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"the energy bar was very hard, like a rock",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"The energy bar was very hard, like a rock",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"energy bar very hard, like rock",
+    "token_before":9,
+    "token_after":6,
+    "removed_tokens":3,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"keyword"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "energy"
+      ]
+    },
+    "lemma_sentence":"energy bar very hard, like rock",
+    "google_translation":null,
+    "text_score":-0.6755443215,
+    "final_score":-0.5404354572
+  },
+  {
+    "sentence_id":4161,
+    "source_file":"MConverter.eu_additional.json",
+    "product_id":"MConverter.eu_additional",
+    "category":"Energy Gel",
+    "brand":"",
+    "product_name":"",
+    "rating":1,
+    "review_date":"2025-06-28",
+    "original_sentence":"l won't order again",
+    "translated_sentence":"l will not order again",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"l will not order again",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"l will not order again",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"not order again",
+    "token_before":5,
+    "token_after":3,
+    "removed_tokens":2,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"not order again",
+    "google_translation":null,
+    "text_score":-0.7963555455,
+    "final_score":-0.6370844364
+  },
+  {
+    "sentence_id":5077,
+    "source_file":"N8_Refuel_Energy_Gel.json",
+    "product_id":"N8_Refuel_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"N8",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2025-11-29",
+    "original_sentence":"\ud83d\udce6 Product Specs",
+    "translated_sentence":"\ud83d\udce6 product specs",
+    "emoji":[
+      "\ud83d\udce6"
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"product specs",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"\ud83d\udce6 Product Specs",
+    "translation_source":"google",
+    "emoji_unique":[
+      "\ud83d\udce6"
+    ],
+    "emoji_count":1,
+    "emoji_unique_count":1,
+    "emoji_meaning":[
+      "package"
+    ],
+    "emoji_summary":[
+      "package"
+    ],
+    "emoji_category":[
+      "neutral"
+    ],
+    "emoji_category_unique":[
+      "neutral"
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"product specs",
+    "token_before":2,
+    "token_after":2,
+    "removed_tokens":0,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"product spec",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":6843,
+    "source_file":"Nuun_Sport_Tablets.json",
+    "product_id":"Nuun_Sport_Tablets",
+    "category":"Electrolyte",
+    "brand":"Nuun",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2022-10-26",
+    "original_sentence":"I been see someone cramp, his face is telling you how uncomfortable",
+    "translated_sentence":"i been see someone cramp, his face is telling you how uncomfortable",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"i been see someone cramp, his face is telling you how uncomfortable",
+    "relevant":null,
+    "text_sentiment":"negative",
+    "final_sentiment":"negative",
+    "normalized_sentence":"I been see someone cramp, his face is telling you how uncomfortable",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"see someone cramp, face telling uncomfortable",
+    "token_before":12,
+    "token_after":6,
+    "removed_tokens":6,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"see someone cramp, face tell uncomfortable",
+    "google_translation":null,
+    "text_score":-0.6261442304,
+    "final_score":-0.5009153843
+  },
+  {
+    "sentence_id":5889,
+    "source_file":"Natures_Key_Electrolyte.json",
+    "product_id":"Natures_Key_Electrolyte",
+    "category":"Electrolyte",
+    "brand":"Nature's Key",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":4,
+    "review_date":"2026-01-23",
+    "original_sentence":"Cuma mental koyak n HR mencanak, jd stakat tu",
+    "translated_sentence":"it's just that i'm mentally torn on the day of the fight, so that's okay",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+
+    ],
+    "clean_sentence":"it's just that i'm mentally torn on the day of the fight, so that's okay",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Cuma mental koyak n hari mencanak, jd stakat tu",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"General Product Review",
+    "stopword_sentence":"mentally torn day fight, that's okay",
+    "token_before":15,
+    "token_after":6,
+    "removed_tokens":9,
+    "primary_aspect":null,
+    "aspect_count":0,
+    "aspect_source":{
+
+    },
+    "aspect_match_keyword":{
+
+    },
+    "lemma_sentence":"mentally torn day fight, that's okay",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  },
+  {
+    "sentence_id":1782,
+    "source_file":"Hammer_Energy_Gel.json",
+    "product_id":"Hammer_Energy_Gel",
+    "category":"Energy Gel",
+    "brand":"Hammer",
+    "product_name":"Science In Sport GO ISOTONIC Energy Gel (60ml) | Shopee Malaysia",
+    "rating":5,
+    "review_date":"2024-01-17",
+    "original_sentence":"Effectiveness: help during sport",
+    "translated_sentence":"effectiveness: help during sport",
+    "emoji":[
+
+    ],
+    "emoji_sentiment":"neutral",
+    "aspect_keywords":[
+      "effectiveness"
+    ],
+    "clean_sentence":"effectiveness: help during sport",
+    "relevant":null,
+    "text_sentiment":"neutral",
+    "final_sentiment":"neutral",
+    "normalized_sentence":"Effectiveness: help during sport",
+    "translation_source":"google",
+    "emoji_unique":[
+
+    ],
+    "emoji_count":0,
+    "emoji_unique_count":0,
+    "emoji_meaning":[
+
+    ],
+    "emoji_summary":[
+
+    ],
+    "emoji_category":[
+
+    ],
+    "emoji_category_unique":[
+
+    ],
+    "emoji_score":0.0,
+    "emoji_intensity":"none",
+    "relevance_status":"relevant",
+    "relevance_reason":"Product Attribute",
+    "stopword_sentence":"effectiveness: help sport",
+    "token_before":4,
+    "token_after":3,
+    "removed_tokens":1,
+    "primary_aspect":"effectiveness",
+    "aspect_count":1,
+    "aspect_source":{
+      "effectiveness":"explicit"
+    },
+    "aspect_match_keyword":{
+      "effectiveness":[
+        "effectiveness:"
+      ]
+    },
+    "lemma_sentence":"effectiveness: help sport",
+    "google_translation":null,
+    "text_score":0.0,
+    "final_score":0.0
+  }
+]
