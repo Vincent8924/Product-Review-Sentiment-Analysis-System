@@ -11,8 +11,8 @@ The system leverages a fine-tuned **RoBERTa deep learning model** to accurately 
 
 The application is deployed and fully operational online. **No local installation or environment setup is required** to test or use the system.
 
-* **🔗 Live Web Application Link:** `[Insert Live App Link Here]`
-* **📄 Sample Test Data:** A sample dataset `[Insert Test Filename Here, e.g., sample_shopee_reviews.xlsx]` is provided in this repository for quick system verification. Download this file to immediately test the live application's functionality.
+* **🔗 Live Web Application Link:** `[https://hz2thxteydeat4aegaia9o.streamlit.app/]`
+* **📄 Sample Test Data:** A sample dataset `[test_reviews_20.csv]` is provided in this repository for quick system verification. Download this file to immediately test the live application's functionality.
 
 ---
 
@@ -25,12 +25,12 @@ The application is deployed and fully operational online. **No local installatio
 ---
 
 ## 💻 How to Test the System
-1. Open the **Live Web Application Link** in any modern browser[cite: 4].
-2. Download the provided sample review Excel file from this repository[cite: 4].
-3. Drag and drop the sample Excel file into the dashboard's uploader component[cite: 4].
-4. Select the column containing the review text (e.g., `Review_Text`)[cite: 4].
-5. Click **"Start AI Analysis"** to see real-time preprocessing, language translation, and sentiment prediction[cite: 4].
-6. Explore the interactive visual charts and download the final comprehensive **Excel** or **PDF** report[cite: 4].
+1. Open the **Live Web Application Link** in any modern browser.
+2. Download the provided sample review Excel file from this repository.
+3. Drag and drop the sample Excel file into the dashboard's uploader component.
+4. Select the column containing the review text (e.g., `Review_Text`).
+5. Click **"Start AI Analysis"** to see real-time preprocessing, language translation, and sentiment prediction.
+6. Explore the interactive visual charts and download the final comprehensive **Excel** or **PDF** report.
 
 ---
 
