@@ -1,5 +1,10 @@
 # Product Review Sentiment Analysis System 🛒📊
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-F9AB00)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 📌 Project Overview
 This project presents an advanced **Product Review Sentiment Analysis System** tailored for the Malaysian Endurance Sports Nutrition Market. By analyzing customer reviews from Shopee Malaysia, the system assists retailers, distributors, and product managers in evaluating product assortment expansion opportunities. 
 
@@ -34,16 +39,35 @@ The application is deployed and fully operational online. **No local installatio
 
 ---
 
+## 🗄️ Datasets & Processing Pipeline
+
+The system includes a rigorous, multi-stage data processing pipeline designed to handle the complexities of local e-commerce feedback. 
+
+**1. Raw Datasets**
+Raw customer reviews were scraped across various endurance sports nutrition products. The `DATASET/` directory contains the initial JSON extractions for brands and products such as CLIF Bar, HIGH5 Energy Gel, Hammer Energy Gel, N8 Refuel, Nature's Key Electrolyte, Nuun Sport Tablets, and SiS products.
+
+**2. The Preprocessing Pipeline**
+The `PREPROCESS DATASET/` folder demonstrates the step-by-step transformation of the raw data into a structured format ready for machine learning:
+* **Translation:** Raw sentences (`01_raw_sentences`) undergo automated and manual translation bridging (`02_sentence_translated`, `03_need.manual_translation_review`, `04_sentence_translated_completed`) guided by custom configuration files (`translation_glossary.json`) located in the `CONFIG/` folder.
+* **Emoji Integration:** Emoji sentiment is calculated and scored (`05_emoji_scored`) using dictionaries stored in the `EMOJI DICTIONARIES/` directory.
+* **Text Normalization:** The text is cleaned (`06_sentence_clean`) and standardized using a local slang mapping file (`normalization.json`) from the `CONFIG/` folder.
+* **Data Refinement:** Reviews are tagged and filtered to ensure only relevant feedback is processed (`07_relevance_full_tagged`, `08_relevant_filtered`)[cite: 7].
+* **Linguistic Structuring:** The pipeline finalizes the text by removing stopwords (`09_stopwords_removed`), extracting key attributes (`10_aspects_extracted`), and applying lemmatization (`11_lemmatized`).
+
+---
+
 ## 📂 Repository Structure
 
 ```text
 ├── app.py                             # Main Streamlit web application script
-├── TNL_Preprocessing.ipynb            # Jupyter Notebook for data cleaning and translation pipeline
-├── Model_Training.ipynb               # Baseline traditional ML models training (Logistic Regression, Naive Bayes)
-├── Transformer_Final_Training.ipynb   # RoBERTa deep learning model fine-tuning and evaluation
-├── Model_Sentiment_ONLY/              # Directory containing the production-ready RoBERTa model and tokenizer
-├── Model_Sentiment_Aspect/            # Experimental Multi-Task Learning (MTL) architecture for aspect-based analysis
 ├── requirements.txt                   # Python dependencies (for local running reference)
+├── CONFIG/                            # Configuration files including slang normalization and translation glossaries
+├── DATASET/                           # Raw collected JSON datasets for various sports nutrition brands
+├── EMOJI DICTIONARIES/                # CSV and JSON dictionaries for emoji sentiment scoring
+├── PREPROCESS DATASET/                # Step-by-step intermediate datasets from the data preprocessing pipeline
+├── Model Training/                    # Jupyter Notebooks for baseline ML and RoBERTa deep learning model training
+├── Model_Sentiment_ONLY/              # Directory containing the production-ready RoBERTa model and tokenizer
+├── Model_Sentiment_Aspect/            # Experimental Multi-Task Learning (MTL) architecture weights
 └── .gitignore                         # Git ignore file
 ```
 ---
