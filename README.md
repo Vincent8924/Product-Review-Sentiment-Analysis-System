@@ -45,7 +45,7 @@ The application is deployed and fully operational online. **No local installatio
 ├── Model_Sentiment_Aspect/            # Experimental Multi-Task Learning (MTL) architecture for aspect-based analysis
 ├── requirements.txt                   # Python dependencies (for local running reference)
 └── .gitignore                         # Git ignore file
-
+```
 ---
 
 ## 📊 Model Performance
